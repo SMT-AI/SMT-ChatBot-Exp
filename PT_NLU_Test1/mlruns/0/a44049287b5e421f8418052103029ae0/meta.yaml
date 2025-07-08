@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/a44049287b5e421f8418052103029ae0/artifacts
+end_time: 1746426340661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a44049287b5e421f8418052103029ae0
+run_name: intelligent-cub-658
+run_uuid: a44049287b5e421f8418052103029ae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746425216249
+status: 3
+tags: []
+user_id: sunildj

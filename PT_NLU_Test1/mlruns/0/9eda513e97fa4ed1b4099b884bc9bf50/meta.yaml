@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/9eda513e97fa4ed1b4099b884bc9bf50/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eda513e97fa4ed1b4099b884bc9bf50
+run_name: clean-kite-989
+run_uuid: 9eda513e97fa4ed1b4099b884bc9bf50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746421654884
+status: 1
+tags: []
+user_id: sunildj

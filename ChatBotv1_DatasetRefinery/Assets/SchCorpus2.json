@@ -1,0 +1,828 @@
+{
+    "My_page": {
+        "response": "Sure! Here’s the info you requested",
+    "advanced_dashboard": {
+      "response": "To access your Advanced Dashboard, please go to the My Page section. This dashboard offers comprehensive data visualization and deeper insights into your activity. (Navigation: My Page → Advanced Dashboard)"
+    },
+    "Messenger": {
+      "response": "To use the Messenger feature, kindly navigate to your My Page section. This tool allows you to conveniently send and receive messages within the platform. (Navigation: My Page → Messenger)"
+    },
+    "My Mailbox": {
+      "response": "You can manage your messages through the My Mailbox, which is located within your My Page. Please proceed there to view, send, and organize your communications. (Navigation: My Page → My Mailbox)"
+    },
+    "Calendar Event": {
+      "response": "To view and manage your upcoming events, access the Calendar Event section available under your My Page. This area helps you stay organized with your schedule. (Navigation: My Page → Calendar Event)"
+    }
+  },
+
+    "front_desk": {
+        "response": "Sure! Here’s the info you requested",
+    "student_directory": {
+          "response": "To retrieve student-related details, please go to the Front Desk section and then navigate to the Student Directory. This section provides a complete list of student profiles. (Navigation: Front Desk → Student Directory)"
+    },
+    "staff_directory": {
+      "response": "To view staff-related information, kindly proceed to the Front Desk section and then navigate to the Staff Directory. This area contains comprehensive staff details. (Navigation: Front Desk → Staff Directory)"
+    },
+    "visitor_management": {
+      "response": "To manage or view visitor information, please go to the Front Desk section and access the Visitor Management area. This section helps monitor and organize visitor records efficiently. (Navigation: Front Desk → Visitor Management)"
+    },
+    "complaint_book": {
+      "response": "To review submitted complaints, navigate to the Complaint Book through the Front Desk section. This area allows you to log and track complaint records. (Navigation: Front Desk → Complaint Book)"
+    },
+    "postal_send_or_receive": {
+      "response": "To manage postal communication, go to the Front Desk section and proceed to the Postal Send/Receive area. Here, you can track incoming and outgoing correspondence. (Navigation: Front Desk → Postal Send/Receive)"
+    },
+    "phone_call_log": {
+      "response": "To view records of communication, please navigate to the Front Desk section and select the Phone Call Log. This section provides a complete log of incoming and outgoing calls. (Navigation: Front Desk → Phone Call Log)"
+    },
+    "postal_report": {
+      "response": "To review postal activity, go to the Front Desk section. Then navigate to the Report section and select Postal Report to access detailed records. (Navigation: Front Desk → Report → Postal Report)"
+    },
+    "visitors_report": {
+      "response": "To access information on visitor activity, navigate to the Front Desk section. Then proceed to the Report section and select Visitors Report to view complete visit logs. (Navigation: Front Desk → Report → Visitors Report)"
+    },
+    "complaints_report": {
+      "response": "To view a summary of recorded complaints, go to the Front Desk section. Then navigate to the Report section and choose Complaints Report for detailed insights. (Navigation: Front Desk → Report → Complaints Report)"
+    }
+  },
+  
+  "voice_call": {
+    "response": "To access this information",
+    "call_report": {
+      "response": "kindly navigate to the Enquiry & Admission section in the system, where you can get the necessary details. (Navigation: Enquiry & Admission)"
+    },
+    "group_manager": {
+      "response": "kindly navigate to the Enquiry & Admission section in the system, where you can get the necessary details. (Navigation: Enquiry & Admission)"
+    },
+    "default_group": {
+      "response":"kindly navigate to the Enquiry & Admission section in the system, where you can get the necessary details. (Navigation: Enquiry & Admission)"
+    },
+    "manage_group": {
+      "response": "kindly navigate to the Enquiry & Admission section in the system, where you can get the necessary details. (Navigation: Enquiry & Admission)"
+    },
+    "registered_user": {
+      "response":"kindly navigate to the Enquiry & Admission section in the system, where you can get the necessary details. (Navigation: Enquiry & Admission)"
+    }
+  },
+
+  "enquiry_admission": {
+    "response": "Sure! Here’s the info you requested",
+    "process_stages": {
+      "response": "To access this information, kindly navigate to the Enquiry & Admission section in the system, where the process stages are available for your reference. (Navigation: Enquiry & Admission → Process Stages)"
+    },
+    "enquiry_dashboard": {
+      "response": "To access this information, please go to the Enquiry & Admission section in the system. Then proceed to the Enquiry Dashboard to view the necessary details. (Navigation: Enquiry & Admission → Enquiry Dashboard)"
+    },
+    "add_new_enquiry": {
+      "response": "To access this information, please go to the Enquiry & Admission section in the system. Then navigate to the Add New Enquiry page to enter the required details. (Navigation: Enquiry & Admission → Add New Enquiry)"
+    },
+    "report": {
+      "response": "To access this information, please go to the Enquiry & Admission section in the system. Then navigate to the report to get the required details. (Navigation: Enquiry & Admission → report)"
+    }
+  },
+    
+  "student_manager": {
+        "response": "Sure! Here’s the info you requested",
+    "student_managers_masters": {
+        "response": "To view and manage master records related to students, navigate to the Student Manager section in the system. From there, go to the Masters area to access the relevant data records. (Navigation: Student Manager → Masters)"
+    },
+    "community": {
+      "response": "To view and manage community-related information for students, go to the Student Manager section, then access the Masters area. From there, select the Community option to view and edit community data. (Navigation: Student Manager → Masters → Community)"
+    },
+    "religion_master": {
+      "response": "To manage and view religious categorization data for students, go to the Student Manager section, open the Masters area, and click on Religion Master. This will allow you to access and modify the religious data records for students. (Navigation: Student Manager → Masters → Religion Master)"
+    },
+    "caste": {
+      "response": "To view and manage caste-related information for students, navigate to the Student Manager section, then proceed to the Masters area and select Caste. This section allows you to categorize students based on their caste. (Navigation: Student Manager → Masters → Caste)"
+    },
+    "student_category": {
+      "response": "To view and manage student classification data, go to the Student Manager section, navigate to the Masters area, and click on Student Category to access the classification records. (Navigation: Student Manager → Masters → Student Category)"
+    },
+    "document_master": {
+      "response": "To manage and view the documentation for students, navigate to the Student Manager section, go to the Masters area, and select Document Master. This area allows you to manage and track required student documents. (Navigation: Student Manager → Masters → Document Master)"
+    },
+    "student_register": {
+      "response": "To view the complete list of student records, navigate to the Student Manager section and go to the Student Register. This section maintains all student-related details and registrations. (Navigation: Student Manager → Student Register)"
+    },
+    "student_kys": {
+      "response": "To view the complete list of student kys records, navigate to the Student Manager section and go to the Student Kys. This section maintains all students kys details. (Navigation: Student Manager → Student Kys)"
+    },
+    "student_bulk_update": {
+      "response": "To update multiple student records at once, navigate to the Student Manager section and access the Student Bulk Update area. This feature allows for efficient updating of student data in bulk. (Navigation: Student Manager → Student Bulk Update)"
+    },
+    "student_roll_no_generator": {
+      "response": "To generate roll numbers for students, navigate to the Student Manager section and select the Roll No Generator. This tool helps in assigning roll numbers to students in an organized manner. (Navigation: Student Manager → Roll No Generator)"
+    },
+    "student_optional_subject": {
+      "response": "To manage and assign optional subjects for students, go to the Student Manager section and access the Student Optional Subject module. This section allows you to add or modify optional subjects for students. (Navigation: Student Manager → Student Optional Subject)"
+    },
+    "student_promote_detain": {
+      "response": "To promote or detain students based on their academic performance, navigate to the Student Manager section and go to the Promote & Detain area. This section is used to manage academic progression and determine student status. (Navigation: Student Manager → Promote & Detain)"
+    },
+    "left_student": {
+      "response": "To access records of students who have left the institution, navigate to the Student Manager section and select the Left Student option. This area provides details on students who are no longer enrolled. (Navigation: Student Manager → Left Student)"
+    },
+    "meritorious_student": {
+      "response": "To access records of meritorious student, navigate to the Student Manager section and select the meritorious Student option. This area provides details on meritorious students . (Navigation: Student Manager → Meritorious student)"
+    },
+    "student_sub_group": {
+      "response": "To access records of student sub group, navigate to the Student Manager section and select the student sub group option. This area provides details on students sub group . (Navigation: Student Manager → student sub group)"
+    },
+    "deleted_student_log": {
+      "response": "To view the log of deleted student records, go to the Student Manager section and open the Deleted Student Log area. This section allows you to track and view records of students who have been removed from the system. (Navigation: Student Manager → Deleted Student Log)"
+    }
+  },
+
+   "employee_module" : {
+       "response": "Sure! Here’s the info you requested",
+     "employee_master" : {
+     	"response": "To access employee master records, navigate to the Employee Module section in the system. From there, go to the Masters area to view and manage essential employee details. (Navigation: Employee Module → Masters)"
+     	},
+     "designation" : {
+     	"response": "To manage and view job roles for employees, navigate to the Employee Module section in the system. From there, go to the Masters area and click on Designation to access job role records and configurations. (Navigation: Employee Module → Masters → Designation)"
+     	},
+     "department" : {
+           "response": "To manage department-related data for employees, navigate to the Employee Module section in the system. From there, go to the Masters area and select Department to view and organize departmental records. (Navigation: Employee Module → Masters → Department)"
+     	},
+     "grade_master" : {
+           "response": "To view and manage employee grading systems, navigate to the Employee Module section in the system. From there, go to the Masters area and click on Grade Master to access grading records and settings. (Navigation: Employee Module → Masters → Grade Master)"
+     	},
+     "employee_group" : {
+     	"response": "To organize and manage employee groups, navigate to the Employee Module section in the system. From there, go to the Masters area and select Employee Group to view and manage group classifications. (Navigation: Employee Module → Masters → Employee Group)"
+     	},
+     "company_master" : {
+     	"response": "To manage company-related details for employees, navigate to the Employee Module section in the system. From there, go to the Masters area and select Company Master to view and edit company-related records. (Navigation: Employee Module → Masters → Company Master)"
+     	},
+     "qualification_master" : {
+     	"response": "To manage educational qualifications for employees, navigate to the Employee Module section in the system. From there, go to the Masters area and select Qualification Master to manage and edit employee qualifications. (Navigation: Employee Module → Masters → Qualification Master)"
+     	},
+     "document_list" : {
+           "response": "To view and manage required employee documentation, navigate to the Employee Module section in the system. From there, go to the Masters area and select Document List to access and organize documents. (Navigation: Employee Module → Masters → Document List)"
+     	},
+     "appointment_type" : {
+           "response": "To view and manage different appointment categories for employees, navigate to the Employee Module section in the system. From there, go to the Masters area and click on Appointment Type to view and configure appointment records. (Navigation: Employee Module → Masters → Appointment Type)"
+     	},
+     "shift_master" : {
+     	"response": "To manage employee shift schedules, navigate to the Employee Module section in the system. From there, go to the Masters area and select Shift Master to configure and view shift-related details. (Navigation: Employee Module → Masters → Shift Master)"
+     	},
+     "bank_master" : {
+     	"response": "To manage banking information for employees, navigate to the Employee Module section in the system. From there, go to the Masters area and select Bank Master to access and manage banking records for employees. (Navigation: Employee Module → Masters → Bank Master)"
+     	},
+     "my_salary_slip" : {
+     	"response": "Sure! To view your salary slip, please go to the Employee Module and select the 'My Salary Slip' option. There, you can download or view your monthly salary details. (Navigation: Employee Module → My Salary Slip)"
+     	},
+    "employee_profile" : {
+     	"response": "To view and manage detailed staff profiles, navigate to the Employee Module section in the system. From there, go to the Employee Profile section to access and modify employee data. (Navigation: Employee Module → Employee Profile)"
+     	},
+     "employee_register" : {
+     	"response": "To view and manage a comprehensive list of all employees, navigate to the Employee Module section in the system. From there, go to the Employee Register to access employee records. (Navigation: Employee Module → Employee Register)"
+     	},
+     "leave_management" : {
+           "response": "To manage employee leave records and policies, navigate to the Employee Module section in the system. From there, go to the Leave Management area to access and configure leave settings. (Navigation: Employee Module → Leave Management)"
+     	},
+     "mark_attendance" : {
+     	 "response": "To record and track staff attendance, navigate to the Employee Module section in the system. From there, go to the Mark Attendance area to input or modify attendance data for employees. (Navigation: Employee Module → Mark Attendance)"
+     	},
+     "leave_dashboard" : {
+     	"response": "To view summaries, statistics, and reports regarding employee leave, navigate to the Employee Module section in the system. From there, go to the Leave Dashboard to access detailed leave records and analytics. (Navigation: Employee Module → Leave Dashboard)"
+     	},
+     "left_employee" : {
+     	"response": "To view details of employees who have left the organization, navigate to the Employee Module section in the system. From there, go to the Left Employee area to access and manage records of former employees. (Navigation: Employee Module → Left Employee)"
+     	}
+    },
+
+    "general_accounting" : {
+       "response": "Sure! Here’s the info you requested",
+     "ledger" : {
+     	"response": "To view and manage ledger details, navigate to the General Accounting section in the system. From there, proceed to the Ledger to find detailed accounting records and entries. (Navigation: General Accounting → Ledger)"
+     	},
+    "voucher_entry" : {
+     	"response": "To record or view voucher entries, navigate to the General Accounting section in the system. From there, proceed to the Voucher Entry to find the relevant details and make necessary entries. (Navigation: General Accounting → Voucher Entry)"
+     	},
+     "contra_entry" : {
+     	"response": "To view and manage contra entries, navigate to the General Accounting section in the system. From there, proceed to the Contra Entry section to find and process the necessary transactions. (Navigation: General Accounting → Contra Entry)"
+     	},
+     "day_book_report" : {
+          "response": "To access the day book report, navigate to the General Accounting section in the system. From there, go to the Day Book Report to view a detailed summary of daily transactions. (Navigation: General Accounting → Day Book Report)"
+     	},
+     "balance_sheet_ledger" : {
+     	 "response": "To view balance sheet ledger details, navigate to the General Accounting section in the system. From there, proceed to the Balance Sheet Ledger to access and review your financial position. (Navigation: General Accounting → Balance Sheet Ledger)"
+     	},
+     "receipts_and_payments" : {
+     	"response": "To manage receipts and payments, navigate to the General Accounting section in the system. From there, proceed to the Receipts and Payments area to view and record financial transactions. (Navigation: General Accounting → Receipts and Payments)"
+     	},
+     "profit_and_loss" : {
+     	"response": "To access profit and loss details, navigate to the General Accounting section in the system. From there, proceed to the Profit and Loss area to analyze the financial performance of your business. (Navigation: General Accounting → Profit and Loss)"
+     	},
+    "income_expense_analysis" : {
+     	"response": "To perform an income/expense analysis, navigate to the General Accounting section in the system. From there, proceed to the Income/Expense Analysis to assess your financial inflows and outflows. (Navigation: General Accounting → Income/Expense Analysis)"
+     	}
+    },
+
+    "academic" : {
+       "response": "Sure! Here’s the info you requested",
+     "time_table" : {
+     	"response": "To view the details of the academic schedule, please proceed to the Academic section in the system. From there, navigate to the Time Table to access the complete schedule and its components. (Navigation: Academic → Time Table)"
+     	},
+     "room_master" : {
+     	"response": "To manage and view room assignments for the academic schedule, please proceed to the Academic section in the system. From there, navigate to the Time Table, and then select Room Master to find the relevant room details. (Navigation: Academic → Time Table → Room Master)"
+     	},
+     "time_slot_master" : {
+           "response": "To define and view time slots for the academic schedule, please proceed to the Academic section in the system. From there, navigate to the Time Table, then select Time Slot Master to configure and view the time slots for classes. (Navigation: Academic → Time Table → Time Slot Master)"
+     	},
+     "time_table_master" : {
+           "response": "To configure and manage the overall time table settings, please proceed to the Academic section in the system. From there, navigate to the Time Table, then select Time Table Master to modify and view time table settings. (Navigation: Academic → Time Table → Time Table Master)"
+     	},
+     "my_syllabus" : {
+     	"response": "To manage and access the syllabus information for various courses, please proceed to the Academic section in the system. From there, navigate to the My Syllabus to view and update course syllabus. (Navigation: Academic → My Syllabus)"
+     	},
+     "online_class_manager" : {
+     	"response":  "To manage your online classes, please navigate to the Academic module and select 'Online Class Manager'. From there, you can schedule, join, or monitor online classes as needed."
+     	},
+    "syllabus_master" : {
+     	"response": "To manage and access the syllabus information for various courses, please proceed to the Academic section in the system. From there, navigate to the Syllabus Master to view and update course syllabus. (Navigation: Academic → Syllabus Master)"
+     	},
+    "teacher_subjects" : {
+     	"response": "To view and manage the subjects taught by each teacher, please proceed to the Academic section in the system. From there, navigate to Teacher Subjects to access teacher-subject assignments. (Navigation: Academic → Teacher Subjects)"
+     	},
+    "home_work_managers" : {
+     	"response": "To manage homework-related tasks, go to the Academic module and select Homework Manager. There, you can create, assign, and review homework for students efficiently. (Navigation: Academic → Homework Manager)"
+     	},
+    "teaching_notes" : {
+     	"response": "To manage and view teaching notes for the academic curriculum, please proceed to the Academic section in the system. From there, navigate to Teaching Notes to access and update teaching materials. (Navigation: Academic → Teaching Notes)"
+     	},
+    "my_online_class" : {
+     	"response":  "To manage your online classes, please navigate to the Academic module and select 'Online Class Manager'. From there, you can schedule, join, or monitor online classes as needed."
+     	},
+    "my_time_table" : {
+     	"response": "To view the details of the academic schedule, please proceed to the Academic section in the system. From there, navigate to the Time Table to access the complete schedule and its components. (Navigation: Academic → Time Table)"
+     	},
+     "my_teaching_notes" : {
+     	"response": "To manage and view teaching notes for the academic curriculum, please proceed to the Academic section in the system. From there, navigate to Teaching Notes to access and update teaching materials. (Navigation: Academic → Teaching Notes)"
+     	},
+     "my_attendance" : {
+     	"response": "To record student attendance, please proceed to the Academic section in the system. From there, navigate to Mark Attendance and select the relevant class to mark attendance for the students. (Navigation: Academic → Mark Attendance)"
+     	},
+    "mark_attendance" : {
+     	"response": "To record student attendance, please proceed to the Academic section in the system. From there, navigate to Mark Attendance and select the relevant class to mark attendance for the students. (Navigation: Academic → Mark Attendance)"
+     	},
+    "mark_bulk_attendance" : {
+     	"response": "To mark attendance for multiple students at once, please proceed to the Academic section in the system. From there, navigate to Mark Bulk Attendance and follow the steps to mark attendance for a group of students. (Navigation: Academic → Mark Bulk Attendance)"
+     	},
+     "my_notes" : {
+     	"response": "To manage and view teaching notes for the academic curriculum, please proceed to the Academic section in the system. From there, navigate to Teaching Notes to access and update teaching materials. (Navigation: Academic → Teaching Notes)"
+     	},
+     "my_homework" : {
+     	"response": "To manage homework-related tasks, go to the Academic module and select Homework Manager. There, you can create, assign, and review homework for students efficiently. (Navigation: Academic → Homework Manager)"
+     	},
+     "co_curricular_activity" : {
+     	"response": "To view or manage co-curricular activities, please go to the Academic module and click on 'Co-Curricular Activity'. You can add new activities, assign participants, and track student involvement from there."
+     	}
+    },
+
+     "portfolio" : {
+       "response": "Sure! Here’s the info you requested",
+     "master" : {
+     	"response": "To manage portfolio master records, navigate to the Portfolio section in the system. From there, go to the Master section where you can view and update your portfolio details. (Navigation: Portfolio → Master)"
+     	},
+     "entry_page" : {
+     	"response": "To enter or view portfolio entries, navigate to the Portfolio section in the system. From there, go to the Entry Page to add or review your portfolio entries. (Navigation: Portfolio → Entry Page)"
+     	},
+     "report" : {
+     	"response": "To generate or view portfolio reports, navigate to the Portfolio section in the system. From there, go to the Report section to access comprehensive portfolio analysis and reports. (Navigation: Portfolio → Report)"
+     	}
+     },
+
+     "examination" : {
+       "response": "Sure! Here’s the info you requested",
+     "examination_master" : {
+     	"response": "To manage examination details, go to the Examination section in the system. From there, navigate to the Master area where you can update and view key examination data. (Navigation: Examination → Master)"
+     	},
+     "grade_master" : {
+     	"response": "To manage grade-related information, navigate to the Examination section in the system. Then, go to the Masters section and select Grade Master to view and edit grade-related data. (Navigation: Examination → Masters → Grade Master)"
+     	},
+     "assessment_master" : {
+           "response": "To manage assessment-related data, navigate to the Examination section in the system. From there, go to the Masters area and select Assessment Master to update assessment criteria and details. (Navigation: Examination → Masters → Assessment Master)"
+     	},
+     "skill_groups" : {
+           "response": "To manage skill group data, navigate to the Examination section in the system. Then, go to the Masters area and click on Skill Groups to view and update skill-related data. (Navigation: Examination → Masters → Skill Groups)"
+     	},
+     "skill_master" : {
+     	"response": "To manage skill master data, go to the Examination section in the system. From there, navigate to the Masters area and select Skill Master to view and manage skill records. (Navigation: Examination → Masters → Skill Master)"
+     	},
+     "exam_description_type" : {
+     	"response": "To configure exam description types, navigate to the Examination section in the system. From there, go to the Masters area and click on Exam Description Type to manage different types of exam descriptions. (Navigation: Examination → Masters → Exam Description Type)"
+     	},
+     "subject_group" : {
+     	"response": "To manage subject group information, go to the Examination section in the system. Then, navigate to the Masters area and click on Subject Group to view and manage subject classifications. (Navigation: Examination → Masters → Subject Group)"
+     	},
+     "exam_creation" : {
+     	"response": "To create exams, go to the Examination section in the system. Then, navigate to the Exam Master area to add or modify exam details and configurations. (Navigation: Examination → Exam Master)"
+     	},
+     "criteria_based" : {
+     	"response": "To set up criteria-based examination configurations, go to the Examination section in the system. From there, navigate to the Criteria Based area to manage criteria-related data. (Navigation: Examination → Criteria Based)"
+     	},
+     "criteria_master" : {
+     	"response": "To manage examination criteria, navigate to the Examination section in the system. From there, go to the Criteria Based area and click on Criteria Master to update or add criteria details. (Navigation: Examination → Criteria Based → Criteria Master)"
+     	},
+      "criteria_association" : {
+           "response": "To manage criteria associations, navigate to the Examination section in the system. From there, go to the Criteria Based area and select Criteria Association to link criteria to exams. (Navigation: Examination → Criteria Based → Criteria Association)"
+     	},
+      "criteria_marks_entry" : {
+           "response": "To enter marks based on criteria, go to the Examination section in the system. Then, navigate to the Criteria Based area and select Criteria Marks Entry to input marks for various criteria. (Navigation: Examination → Criteria Based → Criteria Marks Entry)"
+     	},
+      "exam_mark_entry" : {
+         	"response": "To enter exam marks, go to the Examination section in the system. From there, navigate to the Exam Mark Entry area to input the marks for each exam. (Navigation: Examination → Exam Mark Entry)"
+         },
+      "exam_remark_entry" : {
+         	"response": "To enter exam remarks, go to the Examination section in the system. From there, navigate to the Exam Remark Entry area to add comments and feedback for exams. (Navigation: Examination → Exam Remark Entry)"
+     	},
+      "exam_grade_entry" : {
+         	"response": "To enter exam grades, go to the Examination section in the system. Then, navigate to the Exam Grade Entry area to assign grades based on exam results. (Navigation: Examination → Exam Grade Entry)"
+     	},
+      "exam_report_card" : {
+         	"response": "To generate or view exam report cards, go to the Examination section in the system. From there, navigate to the Exam Report Card area to access student results and detailed reports. (Navigation: Examination → Exam Report Card)"
+     	},
+      "import_exam_marks" : {
+         	"response": "To import exam marks, navigate to the Examination section in the system. From there, go to the Import Exam Marks area to upload marks for multiple exams at once. (Navigation: Examination → Import Exam Marks)"
+     	},
+      "exam_attendance" : {
+         	"response": "To mark or view exam attendance, go to the Examination section in the system. Then, navigate to the Exam Attendance area to record or review attendance for exams. (Navigation: Examination → Exam Attendance)"
+     	},
+      "exam_consolidated_marks" : {
+         	"response": "To view consolidated exam marks, go to the Examination section in the system. From there, navigate to the Exam Consolidated Marks area to see the combined results for all exams. (Navigation: Examination → Exam Consolidated Marks)"
+     	},
+     "exam_promotion_report" : {
+         	"response": "To generate or view exam report cards, go to the Examination section in the system. From there, navigate to the Exam Report Card area to access student results and detailed reports. (Navigation: Examination → Exam Report Card)"
+     	}
+     },
+
+      "nep_hpc_hub" : {
+           "response": "Sure! Here’s the info you requested",
+      "dashboard" : {
+         	"response": "To access the dashboard, go to the NEP-HCP Hub section in the system. From there, navigate to the Dashboard to view the key statistics and overview. (Navigation: NEP-HCP Hub → Dashboard)"
+     	},
+      "foundation_stage" : {
+         	"response": "To access the Foundation Stage details, go to the NEP-HCP Hub section in the system. From there, navigate to the Foundation Stage to find the relevant information. (Navigation: NEP-HCP Hub → Foundation Stage)"
+     	},
+      "foundation_stage_activity" : {
+           "response": "To view or manage activities for the Foundation Stage, go to the NEP-HCP Hub section in the system. Then, navigate to the Foundation Stage and click on Activity to access the related details. (Navigation: NEP-HCP Hub → Foundation Stage → Activity)"
+     	},
+      "preparatory_stage" : {
+         	"response": "To access the Preparatory Stage details, go to the NEP-HCP Hub section in the system. From there, navigate to the Preparatory Stage to find the necessary information. (Navigation: NEP-HCP Hub → Preparatory Stage)"
+     	},
+       "preparatory_stage_team" : {
+           "response": "To view or manage the team for the Preparatory Stage, go to the NEP-HCP Hub section in the system. Then, navigate to the Preparatory Stage and click on Team to see the team details. (Navigation: NEP-HCP Hub → Preparatory Stage → Team)"
+     	},
+       "preparatory_stage_activity" : {
+           "response": "To view or manage activities for the Preparatory Stage, go to the NEP-HCP Hub section in the system. From there, navigate to the Preparatory Stage and click on Activity to find the relevant information. (Navigation: NEP-HCP Hub → Preparatory Stage → Activity)"
+     	},
+        "middle_stage" : {
+         	"response": "To access the Middle Stage details, go to the NEP-HCP Hub section in the system. From there, navigate to the Middle Stage to find the necessary information. (Navigation: NEP-HCP Hub → Middle Stage)"
+     	},
+       "middle_stage_team" : {
+           "response": "To view or manage the team for the Middle Stage, go to the NEP-HCP Hub section in the system. Then, navigate to the Middle Stage and click on Team to access team details. (Navigation: NEP-HCP Hub → Middle Stage → Team)"
+     	},
+       "middle_stage_activity" : {
+           "response": "To view or manage activities for the Middle Stage, go to the NEP-HCP Hub section in the system. From there, navigate to the Middle Stage and click on Activity to find the related details. (Navigation: NEP-HCP Hub → Middle Stage → Activity)"
+     	}
+      },
+
+       "communication" : {
+           "response": "Sure! Here’s the info you requested",
+       "send_sms" : {
+         	"response": "To send an SMS, go to the Communication section in the system. From there, navigate to the Send SMS area to access the relevant details. (Navigation: Communication → Send SMS)"
+         },
+        "sms_send_report" : {
+         	"response": "To view the SMS sent report, go to the Communication section in the system. From there, navigate to the SMS Sent Report to find the details you need. (Navigation: Communication → SMS Sent Report)"
+         },
+        "send_email" : {
+         	"response": "To send an email, go to the Communication section in the system. From there, navigate to the Send Email area to find the details you need. (Navigation: Communication → Send Email)"
+         },
+        "email_send_report" : {
+              "response": "To view the email sent report, go to the Communication section in the system. From there, navigate to the Email Sent Report to find the details you need. (Navigation: Communication → Email Sent Report)"
+         },
+       "notification_setting" : {
+              "response": "To manage your notification preferences, go to the Communication module and select 'Notification Settings'. From there, you can customize how and when you receive alerts for different activities."
+         },
+        "wishes_details" : {
+         	"response": "To view the wishes details, go to the Communication section in the system. From there, navigate to the Wishes Details to find the relevant information. (Navigation: Communication → Wishes Details)"
+         },
+        "home_work" : {
+         	"response": "To manage homework details, go to the Communication section in the system. From there, navigate to the Home Work area to find the details you need. (Navigation: Communication → Home Work)"
+         },
+        "app_user_report" : {
+         	"response": "To view the app user report, go to the Communication section in the system. From there, navigate to the App User Report to find the relevant details. (Navigation: Communication → App User Report)"
+         }
+     },
+
+     "fee_module": {
+          "response": "Sure! Here’s the info you requested",
+     "fee_module_master": {
+            "response": "To explore the core master settings of the fee module, please go to the Fee Module Adv section in the system. From there, navigate to Masters to access the available configurations. (Navigation: Fee Module Adv → Masters)"
+          },
+      "account_master": {
+            "response": "To view and manage account-specific settings related to fees, please proceed to the Fee Module Adv section in the system. Then navigate to Masters, and select Account Master for the relevant options. (Navigation: Fee Module Adv → Masters → Account Master)"
+          },
+      "party_master": {
+            "response": "To access and manage party-related details within the fee structure, please go to the Fee Module Adv section. Then navigate to Party Master for all available configurations. (Navigation: Fee Module Adv → Party Master)"
+          },
+       "fee_head_groups": {
+            "response": "To organize and manage fee head groupings, please proceed to the Fee Module Adv section in the system. From there, go to Masters, then select Fee Head Groups to define or update groups. (Navigation: Fee Module Adv → Masters → Fee Head Groups)"
+          },
+       "fee_head_master": {
+            "response": "To access or modify specific fee heads, please go to the Fee Module Adv section in the system. Then, navigate to Masters and select Fee Head Master to view and manage fee head entries. (Navigation: Fee Module Adv → Masters → Fee Head Master)"
+          },
+        "receipt_master": {
+            "response": "To manage receipt configurations for fee payments, please go to the Fee Module Adv section. From there, navigate to Masters and click on Receipt Master for relevant details. (Navigation: Fee Module Adv → Masters → Receipt Master)"
+          },
+        "optional_fee": {
+            "response": "To manage optional fee components, head over to the Fee Module Adv section. Then navigate to Configuration and select Optional Fee to view or update options. (Navigation: Fee Module Adv → Configuration → Optional Fee)"
+          },
+        "configuration": {
+            "response": "To set up or modify fee-related settings, go to the Fee module and click on 'Configuration'. Here, you can define fee structures, payment modes, fine rules, and other essential parameters based on your institution's policies."
+          },
+        "accept_fee": {
+            "response": "To record and process fee payments, please go to the Fee Module Adv section. From there, navigate to Accept Fee to carry out payment collection. (Navigation: Fee Module Adv → Accept Fee)"
+          },
+        "fee_transaction_list": {
+            "response": "To view detailed fee transactions, please proceed to the Fee Module Adv section. Then go to Reports and click on Fee Transaction Details for a full list. (Navigation: Fee Module Adv → Reports → Fee Transaction Details)"
+          },
+        "fee_transaction_detail": {
+            "response": "To view specific fee transaction records, please go to the Fee Module Adv section. Navigate to Reports and open Fee Transaction Details for in-depth data. (Navigation: Fee Module Adv → Reports → Fee Transaction Details)"
+          },
+       "outstanding_report": {
+            "response": "To view fee dues and pending payments, go to the Fee module and select 'Outstanding Report'. This section provides a detailed summary of students with unpaid fees, including class-wise and student-wise breakdowns."
+          },
+        "cancelled_payment": {
+            "response": "To review records of cancelled payments, please proceed to the Fee Module Adv section. From there, go to Reports and select Fee Transaction Details to find this information. (Navigation: Fee Module Adv → Reports → Fee Transaction Details)"
+          },
+        "collection_summary": {
+            "response": "To get an overview of fee collections, please navigate to the Fee Module Adv section. Then go to Reports and select Fee Transaction Details for a summary. (Navigation: Fee Module Adv → Reports → Fee Transaction Details)"
+          },
+        "student_discount_report": {
+            "response": "To review discounts applied to student fee records, please proceed to the Fee Module Adv section. Navigate to Reports and click on Fee Transaction Details for detailed discount info. (Navigation: Fee Module Adv → Reports → Fee Transaction Details)"
+          },
+        "fee_import": {
+            "response": "To import fee-related data into the system, please head to the Fee Module Adv section. Then go to Reports and select Fee Transaction Details to begin the import process. (Navigation: Fee Module Adv → Reports → Fee Transaction Details)"
+          },
+        "fee_head_report": {
+            "response": "To generate and view reports based on fee heads, please proceed to the Fee Module Adv section. From there, navigate to Reports and choose Fee Report for detailed insights. (Navigation: Fee Module Adv → Reports → Fee Report)"
+          }
+        },
+
+    "transport" : {
+           "response": "Sure! Here’s the info you requested",
+     "transport_master" : {
+         	"response": "To access transport master configurations, please go to the Transport section in the system. From there, navigate to Master. (Navigation: Transport → Master)"
+         },
+     "route_master" : {
+           "response": "To manage route-related details, please go to the Transport section in the system. From there, navigate to Master and click on Route Master. (Navigation: Transport → Master → Route Master)"
+     	},
+     "stage_master" : {
+           "response": "To manage stage-related details, please go to the Transport section in the system. From there, navigate to Master and click on Stage Master. (Navigation: Transport → Master → Stage Master)"
+     	},
+     "boarding_master" : {
+         	"response": "To configure boarding points, please go to the Transport section in the system. From there, navigate to Master and click on Boarding Master. (Navigation: Transport → Master → Boarding Master)"
+     	},
+     "mapping_master" : {
+         	"response": "To manage transport mapping, please go to the Transport section in the system. From there, navigate to Master and click on Mapping Master. (Navigation: Transport → Master → Mapping Master)"
+     	},
+     "cost_fee_master" : {
+         	"response": "To define transport cost and fee details, please go to the Transport section in the system. From there, navigate to Master and click on Cost Fee Master. (Navigation: Transport → Master → Cost Fee Master)"
+     	},
+      "vendor_master" : {
+         	"response": "To manage transport vendors, please go to the Transport section in the system. From there, navigate to Vendor Master. (Navigation: Transport → Vendor Master)"
+         },
+      "vehicle_master" : {
+         	"response": "To manage vehicle information, please go to the Transport section in the system. From there, navigate to Vehicle Master. (Navigation: Transport → Vehicle Master)"
+         },
+      "boarding_sequence" : {
+         	"response": "To set the boarding sequence, please go to the Transport section in the system. From there, navigate to Boarding Sequence. (Navigation: Transport → Boarding Sequence)"
+         },
+      "student_allocation" : {
+         	"response": "To allocate students to transport routes, please go to the Transport section in the system. From there, navigate to Student Allocation. (Navigation: Transport → Student Allocation)"
+         },
+      "attendance" : {
+         	"response": "To manage transport attendance, please go to the Transport section in the system. From there, navigate to Attendance. (Navigation: Transport → Attendance)"
+         },
+      "vehicle_maintenance" : {
+         	"response": "To record vehicle maintenance details, please go to the Transport section in the system. From there, navigate to Vehicle Maintenance. (Navigation: Transport → Vehicle Maintenance)"
+         },
+      "student_move_next_year" : {
+         	"response": "To carry forward student transport allocations to the next year, please go to the Transport section in the system. From there, navigate to Student Move Next Year. (Navigation: Transport → Student Move Next Year)"
+         },
+      "reports" : {
+           "response": "To access transportation-related reports, go to the Transport module and click on 'Reports'. You’ll find detailed insights such as route-wise student lists, vehicle usage summaries, and driver assignments."
+	},
+      "attendance_report" : {
+           "response": "To view transport attendance reports, please go to the Transport section in the system. From there, navigate to Reports and click on Attendance Report. (Navigation: Transport → Reports → Attendance Report)"
+     	},
+      "vehicle_route_summary" : {
+            "response": "To view summaries of vehicle routes, please go to the Transport section in the system. From there, navigate to Reports and click on Vehicle Route Summary. (Navigation: Transport → Reports → Vehicle Route Summary)"
+     	},
+      "vehicle_information_summary" : {
+         	 "response": "To view vehicle information summary, please go to the Transport section in the system. From there, navigate to Reports and click on Vehicle Information Summary. (Navigation: Transport → Reports → Vehicle Information Summary)"
+     	},
+      "transporter_report" : {
+         	 "response": "To view transporter-wise reports, please go to the Transport section in the system. From there, navigate to Reports and click on Transporter Report. (Navigation: Transport → Reports → Transporter Report)"
+     	},
+      "vehicle_due_report" : {
+           "response": "To check vehicle dues, please go to the Transport section in the system. From there, navigate to Reports and click on Vehicle Due Report. (Navigation: Transport → Reports → Vehicle Due Report)"
+     	},
+      "routewise_student_report" : {
+         	 "response": "To generate route-wise student reports, please go to the Transport section in the system. From there, navigate to Reports and click on Routewise Student Report. (Navigation: Transport → Reports → Routewise Student Report)"
+     	},
+      "mis_report" : {
+         	 "response": "To access detailed MIS reports, please go to the Transport section in the system. From there, navigate to Reports and click on MIS Report. (Navigation: Transport → Reports → MIS Report)"
+     	},
+      "driverlist_report" : {
+         	 "response": "To view the driver list report, please go to the Transport section in the system. From there, navigate to Reports and click on Driverlist Report. (Navigation: Transport → Reports → Driverlist Report)"
+     	},
+      "classwise_bus_students_report" : {
+         	 "response": "To view class-wise bus student reports, please go to the Transport section in the system. From there, navigate to Reports and click on Classwise Bus Students Report. (Navigation: Transport → Reports → Classwise Bus Students Report)"
+     	},
+      "vehicle_capacity_report" : {
+           "response": "To check vehicle capacity reports, please go to the Transport section in the system. From there, navigate to Reports and click on Vehicle Capacity Report. (Navigation: Transport → Reports → Vehicle Capacity Report)"
+     	},
+      "vehicle_expense_report" : {
+         	 "response": "To review transport expense reports, please go to the Transport section in the system. From there, navigate to Reports and click on Routewise Vehicle Expense Report. (Navigation: Transport → Reports → Routewise Vehicle Expense Report)"
+     	}
+    },
+
+      "library": {
+            "response": "Sure! Here’s the info you requested",
+        "library_masters" : {
+            "response": "To explore master settings for the library, please go to the Library section in the system. From there, navigate to the Master section to access all available options. (Navigation: Library → Master)"
+        },
+        "dashboard" : {
+            "response": "To view library-related dashboards, go to the Library section in the system. Then navigate to Dashboard to access the relevant details. (Navigation: Library → Dashboard)"
+        },
+        "book_master" : {
+            "response": "To manage book details in the library, please go to the Library section in the system. Then navigate to Book Master to find all the book-related information. (Navigation: Library → Book Master)"
+        },
+        "book_issue_return" : {
+            "response": "To view or manage book issues and returns, go to the Library section in the system. Then navigate to Book Issue Return for the details. (Navigation: Library → Book Issue Return)"
+        },
+        "library_attendance" : {
+            "response": "To manage library attendance, go to the Library section in the system. From there, navigate to Library Attendance to mark or view attendance details. (Navigation: Library → Library Attendance)"
+        },
+        "Book Requisitions" : {
+            "response": "To access or manage book requisitions, please go to the Library section in the system. Then navigate to Book Requisitions for the details. (Navigation: Library → Book Requisitions)"
+        },
+        "book_history" : {
+            "response": "To view the history of books in the library, please go to the Library section in the system. Navigate to Reports and select Book History for the relevant details. (Navigation: Library → Reports → Book History)"
+        },
+        "book_search" : {
+            "response": "To search for specific books in the library, go to the Library section in the system. Then navigate to Reports and click on Book Search to find what you need. (Navigation: Library → Reports → Book Search)"
+        },
+        "library_reports" : {
+            "response": "To view library reports, go to the Library section in the system. From there, navigate to Reports to access all library-related reports. (Navigation: Library → Reports → Library Reports)"
+        },
+        "library_books_import" : {
+            "response": "To import books into the library system, go to the Library section in the system. Then navigate to Library Books Import to begin the process. (Navigation: Library → Library Books Import)"
+        }
+    },
+
+          "payroll" : {
+               "response": "Sure! Here’s the info you requested",
+           "payroll_masters" : {
+               "response": "To access payroll master settings, please go to the Payroll section in the system. From there, navigate to the Master to view all available options. (Navigation: Payroll → Master)"
+           },
+           "financial_year" : {
+               "response": "To access financial year settings, please go to the Payroll section in the system. From there, navigate to the Master and click on Financial Year to find the details you need. (Navigation: Payroll → Master → Financial Year)"
+           },
+           "parameter_master" : {
+               "response": "To manage payroll parameters, please go to the Payroll section in the system. From there, navigate to the Master and click on Parameter Master to view and update the details. (Navigation: Payroll → Master → Parameter Master)"
+           },
+           "professional_tax" : {
+               "response": "To manage professional tax settings, please go to the Payroll section in the system. From there, navigate to the Master and click on Professional Tax to access the necessary information. (Navigation: Payroll → Master → Professional Tax)"
+           },
+           "pf_master" : {
+               "response": "To manage Provident Fund details, please go to the Payroll section in the system. From there, navigate to the Master and click on PF Master to find the information you need. (Navigation: Payroll → Master → PF Master)"
+           },
+           "esic_master" : {
+               "response": "To manage ESIC settings, please go to the Payroll section in the system. From there, navigate to the Master and click on ESIC Master to find the details. (Navigation: Payroll → Master → ESIC Master)"
+           },
+           "exclude_parameters" : {
+               "response": "To manage excluded parameters, please go to the Payroll section in the system. From there, navigate to the Master and click on Exclude Parameters to access the relevant settings. (Navigation: Payroll → Master → Exclude Parameters)"
+           },
+           "salary_configuration" : {
+               "response": "To configure salary settings, please go to the Payroll section in the system. Then navigate to Salary Configuration to view and update the necessary details. (Navigation: Payroll → Salary Configuration)"
+           },
+           "process_attendance" : {
+               "response": "To process attendance for payroll, go to the Payroll section in the system. From there, navigate to Process Attendance to mark attendance for payroll purposes. (Navigation: Payroll → Process Attendance)"
+           },
+           "keyboard_parameters" : {
+               "response": "To configure keyboard parameters for payroll, please go to the Payroll section in the system. From there, navigate to Keyboard Parameters for the necessary configurations. (Navigation: Payroll → Keyboard Parameters)"
+           },
+           "process_salary" : {
+               "response": "To process salaries, go to the Payroll section in the system. Then navigate to Process Salary to initiate the salary processing for employees. (Navigation: Payroll → Process Salary)"
+           },
+           "release_salary" : {
+               "response": "To release salaries for employees, go to the Payroll section in the system. From there, navigate to Release Salary to complete the salary release process. (Navigation: Payroll → Release Salary)"
+           },
+         "payroll_reports" : {
+               "response": "To access payroll-related reports, please go to the Payroll module and select 'Payroll Reports'. This section provides detailed information such as salary summaries, deductions, payslip status, and month-wise payroll analysis."
+           },
+          "consolidated_sheet" : {
+               "response": "To view the consolidated payroll sheet, please go to the Payroll section in the system. From there, navigate to Reports and click on Consolidated Sheet to access the details. (Navigation: Payroll → Reports → Consolidated Sheet)"
+           },
+           "salary_slip" : {
+               "response": "To view or print salary slips, go to the Payroll section in the system. Then navigate to Reports and click on Salary Slip to access the necessary slips. (Navigation: Payroll → Reports → Salary Slip)"
+           },
+           "consolidated_salary_yearly" : {
+               "response": "To view the yearly consolidated salary, go to the Payroll section in the system. From there, navigate to Reports and click on Consolidated Salary Yearly to view the details. (Navigation: Payroll → Reports → Consolidated Salary Yearly)"
+           },
+           "employee_salary_year" : {
+               "response": "To view employee salary details for the year, go to the Payroll section in the system. Then navigate to Reports and click on Employee Salary Year to access the relevant information. (Navigation: Payroll → Reports → Employee Salary Year)"
+           },
+           "pf_report" : {
+               "response": "To generate a Provident Fund report, go to the Payroll section in the system. From there, navigate to Reports and click on PF Report to access the details. (Navigation: Payroll → Reports → PF Report)"
+           },
+           "ptax_report" : {
+               "response": "To generate a professional tax report, please go to the Payroll section in the system. From there, navigate to Reports and click on PTAX Report to find the details. (Navigation: Payroll → Reports → PTAX Report)"
+           },
+           "bank_statement" : {
+               "response": "To view or generate a bank statement, please go to the Payroll section in the system. From there, navigate to Reports and click on Bank Statement for the details. (Navigation: Payroll → Reports → Bank Statement)"
+           },
+           "comparative_salary" : {
+               "response": "To view a comparative salary report, go to the Payroll section in the system. Then navigate to Reports and click on Comparative Salary to view the necessary information. (Navigation: Payroll → Reports → Comparative Salary)"
+           },
+           "esic_report" : {
+               "response": "To generate an ESIC report, please go to the Payroll section in the system. From there, navigate to Reports and click on ESIC Report to find the required details. (Navigation: Payroll → Reports → ESIC Report)"
+           },
+           "tds_report" : {
+               "response": "To generate a TDS report, please go to the Payroll section in the system. From there, navigate to Reports and click on TDS Report to access the details. (Navigation: Payroll → Reports → TDS Report)"
+           }
+        },
+
+           "content" : {
+               "response": "Sure! Here’s the info you requested",
+           "document_category" : {
+               "response": "To access document category settings, please go to the Content section in the system. From there, navigate to the Master and click on Document Category to view the details. (Navigation: Content → Master → Document Category)"
+           },
+           "album_master" : {
+               "response": "To manage album settings, please go to the Content section in the system. From there, navigate to the Master and click on Album Master to access the details. (Navigation: Content → Master → Album Master)"
+           },
+           "announcement_type" : {
+               "response": "To manage announcement types, please go to the Content section in the system. From there, navigate to the Master and click on Announcement Type to view and configure the details. (Navigation: Content → Master → Announcement Type)"
+           },
+           "calender_category" : {
+               "response": "To manage calendar categories, please go to the Content section in the system. From there, navigate to the Master and click on Calendar Category to find the details you need. (Navigation: Content → Master → Calendar Category)"
+           },
+           "document_master" : {
+               "response": "To manage documents, please go to the Content section in the system. From there, navigate to the Document Master to view and manage the documents. (Navigation: Content → Document Master)"
+           },
+           "photo_gallery" : {
+               "response": "To access photo gallery settings, please go to the Content section in the system. From there, navigate to the Photo Gallery to find the necessary details. (Navigation: Content → Photo Gallery)"
+           },
+           "dairy_or_notice" : {
+               "response": "To manage dairy or notices, please go to the Content section in the system. From there, navigate to Dairy/Notice to view and manage the content. (Navigation: Content → Dairy/Notice)"
+           },
+           "news_and_events" : {
+               "response": "To manage news and events, please go to the Content section in the system. From there, navigate to News & Events to access the relevant information. (Navigation: Content → News & Events)"
+           },
+           "calender_event" : {
+               "response": "To manage calendar events, please go to the Content section in the system. From there, navigate to Calendar Event to view the details. (Navigation: Content → Calendar Event)"
+           },
+           "message_of_day" : {
+               "response": "To manage the message of the day, please go to the Content section in the system. From there, navigate to Message Of Day to configure the content. (Navigation: Content → Message Of Day)"
+           }
+        },
+
+          "food_menu" : {
+               "response": "Sure! Here’s the info you requested",
+           "menu_slot" : {
+               "response": "To access menu slot details, please go to the Food Menu section in the system. From there, navigate to the Menu Slot to find the relevant information. (Navigation: Food Menu → Menu Slot)"
+           },
+           "my_menu" : {
+               "response": "To access your personalized menu, please go to the Food Menu section in the system. From there, navigate to My Menu to view your menu details. (Navigation: Food Menu → My Menu)"
+           },
+           "menu_item_detail" : {
+               "response": "To view details of a menu item, please go to the Food Menu section in the system. From there, navigate to the Menu Item Detail to get all the relevant information. (Navigation: Food Menu → Menu Item Detail)"
+           },
+           "ingredient_master" : {
+               "response": "To access the ingredient master details, please go to the Food Menu section in the system. From there, navigate to Ingredient Master to manage and view the ingredients. (Navigation: Food Menu → Ingredient Master)"
+           }
+        },
+
+          "stock_and_inventory" : {
+               "response": "Sure! Here’s the info you requested",
+           "stock_inventory_masters" : {
+               "response": "To access stock and inventory masters, please go to the Stock & Inventory section in the system. From there, navigate to Masters to find the details you need. (Navigation: Stock & Inventory → Masters)"
+           },
+           "stock_module" : {
+               "response": "To access the stock module, please go to the Stock & Inventory section in the system. From there, navigate to the Stock Module to find the details you need. (Navigation: Stock & Inventory → Stock Module)"
+           },
+           "stock_report" : {
+               "response": "To access the stock report, please go to the Stock & Inventory section in the system. From there, navigate to the Stock Report to view the details. (Navigation: Stock & Inventory → Stock Report)"
+           }
+        },
+
+           "health_card_management" : {
+               "response": "Sure! Here’s the info you requested",
+           "major_criteria" : {
+               "response": "To access major criteria, please go to the Health Card Management section in the system. From there, navigate to the Master and in that options click Major Criteria to find the details you need. (Navigation: Health Card Management → Master → Major Criteria)"
+           },
+           "minor_criteria" : {
+               "response": "To access minor criteria, please go to the Health Card Management section in the system. From there, navigate to the Master and in that options click Minor Criteria to find the details you need. (Navigation: Health Card Management → Master → Minor Criteria)"
+           },
+           "health_card_entry" : {
+               "response": "To access health card entries, please go to the Health Card Management section in the system. From there, navigate to the Health Card Entry to find the details you need. (Navigation: Health Card Management → Health Card Entry)"
+           },
+           "health_report" : {
+               "response": "To access health reports, please go to the Health Card Management section in the system. From there, navigate to the Health Report to find the details you need. (Navigation: Health Card Management → Health Report)"
+           }
+        },
+
+           "settings" : {
+                "response": "Sure! Here’s the info you requested",
+            "system_setting" : {
+                "response": "To access system-level configurations, please go to the Settings section in the system. From there, navigate to System Setting to find the details you need. (Navigation: Settings → System Setting)"
+            },
+            "system_initialisation" : {
+                "response": "To manage the initial system setup, please go to the Settings section in the system. From there, navigate to System Setting and in that options click System Initialisation to find the details you need. (Navigation: Settings → System Setting → System Initialisation)"
+            },
+            "global_column_settings" : {
+                "response": "To manage column preferences across modules, go to the Settings section in the system. Then navigate to System Setting and in that options click Global Column Settings to find the details you need. (Navigation: Settings → System Setting → Global Column Settings)"
+            },
+            "app_permissions" : {
+                "response": "To manage application permissions, please go to the Settings section in the system. From there, navigate to System Setting and in that options click App Permissions to find the details you need. (Navigation: Settings → System Setting → App Permissions)"
+            },
+            "user_roles" : {
+                "response": "To define or edit user roles, please go to the Settings section in the system. From there, navigate to User & Roles Setting and in that options click User Roles to find the details you need. (Navigation: Settings → User & Roles Setting → User Roles)"
+            },
+            "user_master" : {
+                "response": "To manage user accounts, please go to the Settings section in the system. Then navigate to User & Roles Setting and in that options click User Master to find the details you need. (Navigation: Settings → User & Roles Setting → User Master)"
+            },
+            "password_manager" : {
+                "response": "To manage user passwords, please go to the Settings section in the system. From there, navigate to User & Roles Setting and in that options click Password Manager to find the details you need. (Navigation: Settings → User & Roles Setting → Password Manager)"
+            },
+            "login_preview" : {
+                "response": "To view a preview of the login interface, go to the Settings section in the system. Then navigate to User & Roles Setting and in that options click Login Preview to find the details you need. (Navigation: Settings → User & Roles Setting → Login Preview)"
+            },
+            "sibling_list" : {
+                "response": "To access sibling information, please go to the Settings section in the system. Navigate to User & Roles Setting and in that options click Sibling List to find the details you need. (Navigation: Settings → User & Roles Setting → Sibling List)"
+            },
+            "institute_master" : {
+                "response": "To manage institute details, please go to the Settings section in the system. Navigate to Academic Setting and in that options click Institute Master to find the details you need. (Navigation: Settings → Academic Setting → Institute Master)"
+            },
+            "academic_year_or_batch" : {
+                "response": "To configure academic years or batches, go to the Settings section in the system. From there, navigate to Academic Setting and in that options click Academic Year/Batch to find the details you need. (Navigation: Settings → Academic Setting → Academic Year/Batch)"
+            },
+            "educational_stages" : {
+                "response": "To manage educational stages, go to the Settings section in the system. Then navigate to Academic Setting and in that options click Educational Stages to find the details you need. (Navigation: Settings → Academic Setting → Educational Stages)"
+            },
+            "section_category" : {
+                "response": "To configure section categories, please go to the Settings section in the system. Navigate to Academic Setting and in that options click Section Category to find the details you need. (Navigation: Settings → Academic Setting → Section Category)"
+            },
+            "division_master" : {
+                "response": "To manage division details, please go to the Settings section in the system. From there, navigate to Academic Setting and in that options click Division Master to find the details you need. (Navigation: Settings → Academic Setting → Division Master)"
+            },
+            "academic_session_date" : {
+                "response": "To define academic session dates, please go to the Settings section in the system. Navigate to Academic Setting and in that options click Academic Session Date to find the details you need. (Navigation: Settings → Academic Setting → Academic Session Date)"
+            },
+            "subject_type" : {
+                "response": "To manage types of subjects, go to the Settings section in the system. From there, navigate to Academic Setting and in that options click Subject Type to find the details you need. (Navigation: Settings → Academic Setting → Subject Type)"
+            },
+            "subject_master" : {
+                "response": "To manage subject information, please go to the Settings section in the system. Then navigate to Academic Setting and in that options click Subject Master to find the details you need. (Navigation: Settings → Academic Setting → Subject Master)"
+            },
+            "subject_master_upload" : {
+                "response": "To upload subject data, please go to the Settings section in the system. Navigate to Academic Setting and in that options click Subject Master Upload to find the details you need. (Navigation: Settings → Academic Setting → Subject Master Upload)"
+            },
+            "class_teacher_master" : {
+                "response": "To manage class teacher assignments, please go to the Settings section in the system. Then navigate to Academic Setting and in that options click Class Teacher Master to find the details you need. (Navigation: Settings → Academic Setting → Class Teacher Master)"
+            },
+            "calendar_day_setting" : {
+                "response": "To configure calendar days, please go to the Settings section in the system. Navigate to General Setting and in that options click Calendar Day Setting to find the details you need. (Navigation: Settings → General Setting → Calendar Day Setting)"
+            },
+            "login_duplicate" : {
+                "response": "To manage duplicate login settings, go to the Settings section in the system. Then navigate to Login Duplicate to find the details you need. (Navigation: Settings → Login Duplicate)"
+            }
+        },
+
+        "institution" : {
+                "response": "To access this information",
+            "about_institution" : {
+                "response": "Kindly contact the institution administrator to obtain complete and accurate information regarding the institution. They are the appropriate point of contact for any official details or specific queries you may have."
+            },
+            "institution_picture" : {
+                "response": "To view the pictures of your institution, please navigate to the Content section in the system. From there, go to the Photo Gallery to access the required details. (Navigation: Content → Photo Gallery)"
+            },
+            "institution_address" : {
+                "response": "Kindly contact the institution administrator to obtain complete and accurate information regarding the institution. They are the appropriate point of contact for any official details or specific queries you may have."
+            },
+            "institution_board_information" : {
+                "response": "Kindly contact the institution administrator to obtain complete and accurate information regarding the institution. They are the appropriate point of contact for any official details or specific queries you may have."
+            }
+        },
+
+        "product" : {
+                "response": "Sure! Here’s the info you requested",
+        "about_product" : {
+                "response": "Every School whether it is a small, young and dynamic establishment or a large and reputed institution, always aims to impart the best in class education and service for all the stakeholders involved while enabling top of the line placement for their graduates.From planning for the academic year up to the closure of the academic year, the school management has to deal with a wide range of the academic and administrative processes. Managing all of them can be a humongous process. NetKampuss School Management Software makes this process smooth, efficient and ridiculosly simple. NetKampuss is your one stop solution in your process of School Transformation."
+                }
+        }
+}

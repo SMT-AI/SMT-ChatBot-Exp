@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/d3fdfe5c179140ae9528ab1b4e49845d/artifacts
+end_time: 1739520586955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3fdfe5c179140ae9528ab1b4e49845d
+run_name: stylish-hog-443
+run_uuid: d3fdfe5c179140ae9528ab1b4e49845d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739520547770
+status: 3
+tags: []
+user_id: sunildj

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/c582a3e0654c4e79b56476b328295057/artifacts
+end_time: 1744888470204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c582a3e0654c4e79b56476b328295057
+run_name: entertaining-pig-662
+run_uuid: c582a3e0654c4e79b56476b328295057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744888320421
+status: 3
+tags: []
+user_id: sunildj

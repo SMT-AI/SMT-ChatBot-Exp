@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/4dc2a85e4fee41c3bf6b616baaaa9f0f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dc2a85e4fee41c3bf6b616baaaa9f0f
+run_name: casual-owl-202
+run_uuid: 4dc2a85e4fee41c3bf6b616baaaa9f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747202949838
+status: 1
+tags: []
+user_id: sunildj

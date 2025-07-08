@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/a459df7cffbd40d2bd788429fd2e8ee8/artifacts
+end_time: 1739520460066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a459df7cffbd40d2bd788429fd2e8ee8
+run_name: gregarious-shoat-265
+run_uuid: a459df7cffbd40d2bd788429fd2e8ee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739520401702
+status: 3
+tags: []
+user_id: sunildj

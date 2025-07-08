@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/6d89be7a4fb640e5a64c7c8b8421ce2b/artifacts
+end_time: 1739522829840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d89be7a4fb640e5a64c7c8b8421ce2b
+run_name: amusing-flea-560
+run_uuid: 6d89be7a4fb640e5a64c7c8b8421ce2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739522740186
+status: 3
+tags: []
+user_id: sunildj

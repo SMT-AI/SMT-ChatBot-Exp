@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/1f8be317feda4977a7b013f577b40404/artifacts
+end_time: 1746431833165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f8be317feda4977a7b013f577b40404
+run_name: sneaky-kit-494
+run_uuid: 1f8be317feda4977a7b013f577b40404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746429023420
+status: 3
+tags: []
+user_id: sunildj

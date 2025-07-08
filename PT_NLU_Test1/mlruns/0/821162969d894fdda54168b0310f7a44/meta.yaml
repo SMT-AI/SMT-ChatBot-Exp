@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/821162969d894fdda54168b0310f7a44/artifacts
+end_time: 1746440692773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 821162969d894fdda54168b0310f7a44
+run_name: clean-mare-592
+run_uuid: 821162969d894fdda54168b0310f7a44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746438240246
+status: 3
+tags: []
+user_id: sunildj

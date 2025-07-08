@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/9269a714485c4003b1a38402d0daec94/artifacts
+end_time: 1747201360113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9269a714485c4003b1a38402d0daec94
+run_name: placid-shrimp-433
+run_uuid: 9269a714485c4003b1a38402d0daec94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747200055115
+status: 3
+tags: []
+user_id: sunildj

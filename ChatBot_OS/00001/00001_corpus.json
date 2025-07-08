@@ -1,0 +1,367 @@
+{
+  "admission_process": {
+    "response": "Hello! The admission process at [Institution Name] involves several steps, including application submission, document verification, fee payment, and confirmation. How can I assist you with the admission process?",
+    "admission_deadline": {
+      "response": "The admission deadline for [Course/Program] at [Institution Name] is [Deadline Date]. Ensure that you complete all necessary steps before this date. Would you like more details?"
+    },
+    "admission_documents": {
+      "response": "For admission, you will need the following documents:\n- [List of Required Documents]\nPlease make sure to submit them in the required format. Do you need assistance with document submission?"
+    },
+    "admission_eligibility": {
+      "response": "To be eligible for [Course/Program] at [Institution Name], you must meet the following criteria:\n- [Eligibility Criteria]\nWould you like me to check if you qualify for admission?"
+    },
+    "admission_fee_details": {
+      "response": "The admission fee for [Course/Program] is [Fee Amount]. You can make the payment via [Payment Methods]. Would you like assistance with the payment process?"
+    },
+    "admission_status": {
+      "response": "You can check your admission status by visiting [Admission Portal Link] and entering your application number. Would you like me to guide you through the process?"
+    },
+    "admission_course_change": {
+      "response": "If you wish to change your course after admission, you need to follow these steps:\n1. Submit a course change request form\n2. Provide necessary documents (if required)\n3. Await approval from the admissions office\nWould you like help with the course change process?"
+    }
+  },
+  
+  "course_enrollment": {
+    "response": "Hello! Course enrollment at [Institution Name] involves selecting courses, meeting prerequisites, and completing the registration process. How can I assist you with course enrollment?",
+    "course_prerequisites": {
+      "response": "To enroll in [Course Name], you must meet the following prerequisites:\n- [List of Prerequisites]\nWould you like me to check if you meet these requirements?"
+    },
+    "course_change_request": {
+      "response": "If you need to change your enrolled course, follow these steps:\n1. Submit a course change request form.\n2. Provide any required supporting documents.\n3. Await approval from the academic office.\nWould you like help with this process?"
+    },
+    "course_availability": {
+      "response": "The availability for [Course Name] depends on seat capacity and prerequisites. You can check real-time availability on [Course Portal Link]. Would you like assistance with enrollment?"
+    },
+    "course_withdrawal": {
+      "response": "If you wish to withdraw from a course, you need to:\n1. Submit a course withdrawal request.\n2. Check the withdrawal deadline and refund policies.\n3. Get approval from the academic office if required.\nWould you like guidance on this?"
+    },
+    "course_fees": {
+      "response": "The fee for [Course Name] is [Fee Amount]. Payment can be made via [Payment Methods]. Would you like help with fee payment or financial aid options?"
+    }
+  },
+      
+  "exam_schedule": {
+    "response": "Hello! The exam schedule for [Course/Program] at [Institution Name] is available on [Exam Portal Link]. How can I assist you with exam-related information?",
+    "exam_syllabus": {
+      "response": "The syllabus for [Exam Name] covers the following topics:\n- [List of Topics]\nYou can find the detailed syllabus at [Syllabus Link]. Would you like help with study resources?"
+    },
+    "exam_results": {
+      "response": "Exam results for [Exam Name] will be published on [Result Date]. You can check your results at [Result Portal Link]. Would you like guidance on how to check your results?"
+    },
+    "exam_revaluation": {
+      "response": "If you believe there is an error in your exam results, you can apply for revaluation by following these steps:\n1. Submit a revaluation request at [Revaluation Portal Link].\n2. Pay the required fee.\n3. Await the updated results.\nWould you like assistance with the revaluation process?"
+    },
+    "exam_grade_improvement": {
+      "response": "If you want to improve your grades, you may be eligible for a grade improvement exam. The process includes:\n1. Checking eligibility criteria.\n2. Registering for the improvement exam before [Registration Deadline].\n3. Preparing and appearing for the exam.\nWould you like more details on grade improvement exams?"
+    },
+    "exam_retakes": {
+      "response": "If you did not pass the exam, you may be allowed to retake it. The retake process involves:\n1. Registering for the exam retake before [Retake Deadline].\n2. Paying the retake fee if applicable.\n3. Preparing for the exam and appearing on the scheduled date.\nWould you like assistance with the retake registration?"
+    }
+  },
+    
+  "fee_details": {
+    "response": "Hello! The fee details for [Course/Program] at [Institution Name] include tuition fees, examination fees, and other applicable charges. How can I assist you with fee-related information?",
+    "fee_deadline": {
+      "response": "The fee payment deadline for [Course/Program] is [Deadline Date]. Ensure that you complete the payment before this date to avoid penalties. Would you like more details?"
+    },
+    "fee_payment_methods": {
+      "response": "You can pay your fees through the following methods:\n- [List of Payment Methods]\nPayments can be made online at [Payment Portal Link] or at the institution’s accounts office. Would you like help with the payment process?"
+    },
+    "fee_scholarships": {
+      "response": "Scholarships and financial aid are available for eligible students. Some of the available scholarships include:\n- [List of Scholarships]\nYou can apply through [Scholarship Application Portal Link]. Would you like assistance with applying for scholarships?"
+    },
+    "fee_penalties": {
+      "response": "Late fee payments may result in penalties. The penalty structure is as follows:\n- [Penalty Details]\nIf you need an extension or waiver, please contact [Finance Office Contact]. Would you like to discuss penalty waivers?"
+    },
+    "fee_receipt": {
+      "response": "After making a payment, you can download your fee receipt from [Fee Receipt Portal Link]. If you need a printed copy, visit the accounts office. Would you like help finding your receipt?"
+    },
+    "fee_installments": {
+      "response": "If you cannot pay the full fee at once, installment plans may be available. The installment options are:\n- [List of Installment Plans]\nYou can apply for an installment plan at [Installment Request Portal Link]. Would you like guidance on this?"
+    }
+  },
+    
+  "attendance_status": {
+    "response": "Hello! You can check your attendance status for [Course/Program] by logging into [Attendance Portal Link]. How can I assist you with your attendance?"
+  ,
+  "attendance_check": {
+    "response": "To check your attendance, visit [Attendance Portal Link] and enter your student ID. Would you like me to guide you through the process?"
+  },
+  "attendance_update": {
+    "response": "If there is an error in your attendance records, you can request an update by:\n1. Contacting your instructor or academic office.\n2. Submitting an attendance correction request at [Update Request Link].\nWould you like help with the request process?"
+  },
+  "attendance_excuse": {
+    "response": "If you were absent due to valid reasons, you can submit an attendance excuse by:\n1. Filling out the excuse form at [Excuse Submission Link].\n2. Providing necessary documentation (medical certificate, official letter, etc.).\nWould you like assistance with submitting an excuse?"
+  },
+  "attendance_policy": {
+    "response": "The attendance policy at [Institution Name] states that:\n- [Brief Overview of Policy]\nYou can read the full attendance policy at [Policy Document Link]. Would you like a summary of the key rules?"
+  }
+},
+    
+  "class_timetable": {
+    "response": "Hello! You can access your class timetable for [Course/Program] at [Institution Name] by visiting [Timetable Portal Link]. How can I assist you with your timetable?",
+  "timetable_check": {
+    "response": "To check your class timetable, log in to [Timetable Portal Link] and enter your student credentials. Would you like me to guide you through the process?"
+  },
+  "timetable_update": {
+    "response": "If you need to update your timetable due to course changes or errors, follow these steps:\n1. Submit a timetable update request at [Update Request Link].\n2. Provide valid reasons and supporting documents if required.\n3. Await confirmation from the academic office.\nWould you like help with submitting an update request?"
+  },
+  "timetable_conflicts": {
+    "response": "If your timetable has conflicting classes, you can resolve the issue by:\n1. Contacting your academic advisor or course coordinator.\n2. Requesting a timetable adjustment at [Conflict Resolution Link].\nWould you like guidance on resolving timetable conflicts?"
+  },
+  "timetable_changes": {
+    "response": "If there are changes to your class schedule, you will be notified via [Notification Method - Email, SMS, Portal, etc.]. You can also check updates at [Timetable Update Link]. Would you like me to check for recent changes?"
+  },
+  "timetable_availability": {
+    "response": "The timetable for [Course/Program] is usually published on [Publication Date]. You can check availability at [Timetable Portal Link]. Would you like assistance in finding your timetable?"
+  }
+},
+    
+  "apply_leave": {
+    "response": "Hello! If you need to apply for leave, follow these steps:\n1. Submit a leave request at [Leave Application Portal Link].\n2. Provide the required details, including reason and duration.\n3. Attach any supporting documents if necessary.\nWould you like assistance with submitting your leave request?",
+  "leave_status": {
+    "response": "You can check the status of your leave application by logging into [Leave Status Portal Link]. Enter your application ID to track the approval process. Would you like help with checking your leave status?"
+  },
+  "leave_duration": {
+    "response": "The allowed leave duration depends on the type of leave and institution policy. Generally:\n- Medical Leave: [Duration]\n- Personal Leave: [Duration]\n- Emergency Leave: [Duration]\nWould you like to check how much leave you are eligible for?"
+  }
+},
+    
+  "library_access": {
+    "response": "Hello! You can access the library at [Institution Name] by visiting [Library Portal Link]. Ensure you have a valid student ID for entry. Would you like details on library timings or membership?",
+  "library_book_availability": {
+    "response": "To check the availability of a book, search the online catalog at [Library Catalog Link] or visit the library help desk. Would you like assistance in finding a specific book?"
+  },
+  "library_fines": {
+    "response": "Library fines are charged for late returns, lost books, or damages. The fine structure is as follows:\n- Late return: [Fine Amount]\n- Lost book: [Replacement Cost]\nYou can check and pay your fines at [Library Fine Payment Portal Link]. Would you like help with fine payments?"
+  }
+},
+    
+  "study_materials": {
+    "response": "Hello! Study materials for [Course/Subject] are available at [Study Material Portal Link]. You can access notes, books, and online resources. How can I assist you with study materials?",
+  "material_availability": {
+    "response": "To check the availability of study materials for [Course/Subject], visit [Material Availability Portal Link] or check with your instructor. Would you like me to help you find specific materials?"
+  },
+  "material_request": {
+    "response": "If you need additional study materials, you can submit a request at [Material Request Portal Link]. Provide details of the required materials, and the academic office will review your request. Would you like help with submitting a request?"
+  }
+},
+    
+  "sports_registration": {
+    "response": "Hello! If you’re interested in joining a sports team or activity at [Institution Name], you can register through [Sports Registration Portal Link]. How can I assist you with the registration process?",
+  "registration_process": {
+    "response": "The sports registration process involves the following steps:\n1. Fill out the registration form at [Sports Registration Portal Link].\n2. Submit any required documents (medical certificate, consent form, etc.).\n3. Attend trials or selection rounds if applicable.\nWould you like help with completing your registration?"
+  },
+  "eligibility_criteria": {
+    "response": "To participate in [Sport Name], you must meet the following eligibility criteria:\n- Age requirement: [Age Limit]\n- Health & fitness requirements: [Medical Conditions, if any]\n- Prior experience (if required): [Experience Details]\nWould you like to check if you qualify for registration?"
+  }
+},
+   
+  "event_details": {
+    "response": "Hello! There are various events happening at [Institution Name]. You can find details about upcoming events at [Event Portal Link]. How can I assist you with event information?",
+  "event_schedule": {
+    "response": "The schedule for [Event Name] is as follows:\n- Date: [Event Date]\n- Time: [Event Time]\n- Venue: [Event Location]\nWould you like reminders or more details about this event?"
+  },
+  "event_registration": {
+    "response": "To register for [Event Name], follow these steps:\n1. Visit [Event Registration Portal Link].\n2. Fill out the registration form with the required details.\n3. Submit the form before the deadline [Registration Deadline].\nWould you like assistance with event registration?"
+  }
+},
+    
+  "forgot_password": {
+    "response": "If you have forgotten your password, don’t worry! You can reset it by visiting [Password Reset Portal Link]. Let me know if you need assistance with the process.",
+  "password_reset": {
+    "response": "To reset your password, follow these steps:\n1. Go to [Password Reset Portal Link].\n2. Enter your registered email or student ID.\n3. Follow the instructions sent to your email to create a new password.\nWould you like help with resetting your password?"
+  }
+},
+    
+  "contact_teacher": {
+    "response": "If you need to contact your teacher, you can reach out via email, the student portal, or during office hours. You can find their contact details at [Teacher Contact Portal Link]. Would you like help finding a specific teacher?",
+  "teacher_availability": {
+    "response": "Teachers are available during their scheduled office hours or by appointment. You can check availability at [Teacher Availability Portal Link] or contact them via email. Would you like assistance in scheduling a meeting?"
+  }
+},
+    
+  "hostel_inquiry": {
+    "response": "Hello! If you're looking for hostel accommodation at [Institution Name], you can find details about available rooms, fees, and facilities at [Hostel Inquiry Portal Link]. How can I assist you with hostel-related information?",
+  "hostel_availability": {
+    "response": "Hostel availability depends on room occupancy and your eligibility. You can check available rooms and apply at [Hostel Availability Portal Link]. Would you like help with the application process?"
+  },
+  "hostel_rules": {
+    "response": "Hostel residents must follow the rules set by [Institution Name], including:\n- Curfew timings: [Curfew Time]\n- Visitor policies: [Visitor Rules]\n- Maintenance and discipline guidelines\nYou can view the full hostel rules at [Hostel Rules Document Link]. Would you like a summary of key policies?"
+  }
+},
+    
+  "mark_attendance": {
+    "response": "To mark attendance for your class, please log in to [Attendance Portal Link] and select the course and date. Ensure all student records are updated. Would you like a step-by-step guide?",
+  "edit_attendance": {
+    "response": "If you need to modify attendance records, go to [Edit Attendance Portal Link] and update the necessary details. Changes may require approval from the academic office. Would you like help with the process?"
+  },
+  "attendance_report": {
+    "response": "To generate an attendance report, visit [Attendance Report Portal Link], select the class and date range, and download the report in your preferred format. Would you like assistance in generating a report?"
+  }
+},
+    
+  "upload_assignment": {
+    "response": "To upload assignments, log in to [Assignment Portal Link], select the course and assignment, and upload the file before the deadline. Would you like assistance with the upload process?",
+  "assignment_deadline_extension": {
+    "response": "If you need to request a deadline extension for an assignment, follow these steps:\n1. Submit a request through [Extension Request Portal Link].\n2. Provide a valid reason for the extension.\n3. Await approval from the course coordinator. Would you like help with this?"
+  },
+  "assignment_feedback": {
+    "response": "To provide feedback for assignments, go to [Feedback Portal Link], select the student’s submission, and enter your comments. Feedback can be submitted directly to the student’s portal. Would you like guidance on giving feedback?"
+  }
+},
+    
+  "exam_paper_submission": {
+    "response": "To submit your exam paper, please follow the process outlined below. Ensure that you complete the submission before the deadline. Would you like more details on the submission procedure?",
+  "submission_process": {
+    "response": "To submit your exam paper, follow these steps:\n1. Log in to the [Exam Portal Link].\n2. Select the relevant exam and upload your completed paper.\n3. Confirm the submission and receive a confirmation receipt.\nIf you face any issues during submission, feel free to reach out. Would you like assistance with the submission process?"
+  }
+},
+    
+  "grade_submission": {
+    "response": "To submit grades for your class, follow the grading process and enter the grades through the [Grade Submission Portal Link]. Would you like more details on how to submit grades?",
+  "grading_process": {
+    "response": "The grading process involves the following steps:\n1. Log in to [Grade Submission Portal Link].\n2. Select the relevant course and exam.\n3. Enter grades for each student based on their performance.\n4. Submit the grades and confirm submission.\nWould you like assistance with the grading process?"
+  }
+},
+    
+  "course_syllabus_update": {
+    "response": "To update the course syllabus, please follow the required procedures outlined by the academic office. You can submit the updated syllabus through [Syllabus Update Portal Link]. Would you like more information on how to proceed?",
+  "syllabus_modification": {
+    "response": "If you need to modify the syllabus, ensure that the changes align with the course objectives and academic standards. Submit the modified syllabus at [Syllabus Modification Portal Link] for approval. Would you like help with the modification process?"
+  }
+},
+    
+  "student_performance": {
+    "response": "To track and analyze student performance, you can view reports on grades, attendance, and assignments at [Student Performance Portal Link]. How can I assist you with student performance analysis?",
+  "performance_analysis": {
+    "response": "To analyze student performance, you can use various tools available in the [Performance Analysis Portal Link]. This includes reviewing overall grades, assignment scores, and attendance data. Would you like a detailed breakdown of a specific student’s performance?"
+  }
+},
+    
+  "send_feedback_to_parents": {
+    "response": "To send feedback to parents, you can use the [Parent Communication Portal Link] to enter feedback for individual students or classes. The feedback will be sent directly to the parents' contact details. Would you like assistance with sending feedback?",
+  "parent_communication": {
+    "response": "For effective communication with parents, you can send updates via email or through the [Parent Communication Portal Link]. This platform allows you to share feedback, reports, and any important announcements. Would you like help drafting a communication for the parents?"
+  }
+},
+    
+  "child_grades": {
+    "response": "To view your child’s grades, you can log in to the [Parent Portal Link] and access the grades section for each subject. Would you like help navigating the portal?",
+  "grade_inquiry": {
+    "response": "If you have questions about your child's grades, you can inquire about specific subjects, assignments, or exams by reaching out to the teacher via [Teacher Contact Portal Link]. Would you like assistance with a particular subject or grade?"
+  }
+},
+    
+  "child_attendance": {
+    "response": "To check your child's attendance, you can log in to the [Parent Portal Link] and view their attendance record for each subject. Would you like help navigating the attendance section?",
+  "attendance_check": {
+    "response": "You can check your child’s attendance by logging into [Attendance Portal Link] and selecting the relevant class or date range. Would you like assistance with checking their attendance?"
+  }
+},
+    
+  "child_performance_review": {
+    "response": "To review your child's performance, you can access detailed reports on grades, assignments, and behavior through the [Parent Portal Link]. Would you like assistance with reviewing a specific area of performance?",
+  "performance_evaluation": {
+    "response": "For a detailed performance evaluation, you can view an overall report, including grades, subject-wise performance, and participation at [Performance Evaluation Portal Link]. Would you like help with understanding the evaluation?"
+  }
+},
+   
+  "fee_payment_status": {
+    "response": "To check the status of your fee payment, you can visit [Fee Payment Status Portal Link] and log in with your credentials. The status will be updated there. Would you like assistance with accessing the payment status?",
+  "payment_verification": {
+    "response": "If you need to verify a payment, please provide the payment reference number, and you can verify it through [Payment Verification Portal Link]. Alternatively, you can contact the accounts department for confirmation. Would you like help with this process?"
+  }
+},
+    
+  "fee_due_date": {
+    "response": "To check the due date for your child's fee payment, please log in to [Fee Portal Link]. The due date will be listed under the payments section. Would you like assistance in accessing this information?",
+  "due_date_check": {
+    "response": "You can verify the upcoming fee due dates by visiting [Fee Due Date Portal Link]. If you need further clarification, please contact the accounts department. Would you like help with the process?"
+  }
+},
+    
+  "fee_receipt_download": {
+    "response": "To download your child's fee receipt, log in to [Fee Portal Link] and navigate to the 'Payment History' section. You can download the receipt for any completed transaction. Would you like assistance with this process?",
+  "receipt_access": {
+    "response": "You can access and download fee receipts by visiting [Receipt Access Portal Link]. If you need a printed copy, you may also request one from the accounts office. Would you like help finding a specific receipt?"
+  }
+},
+    
+  "bus_tracking": {
+    "response": "To track your child's school bus, please log in to [Bus Tracking Portal Link]. You can view the current location, route, and estimated arrival time. Would you like help accessing the tracking system?",
+  "real_time_tracking": {
+    "response": "For real-time bus tracking, use the [Real-Time Tracking Portal Link]. This feature provides live updates on the bus’s location and expected arrival time. Would you like to receive notifications for arrival updates?"
+  }
+},
+    
+  "security_updates": {
+    "response": "To stay informed about school security updates, please check [Security Updates Portal Link]. You can also subscribe to alerts for immediate notifications. Would you like assistance with subscribing to updates?",
+  "safety_alerts": {
+    "response": "For urgent safety alerts, please enable notifications on [Safety Alerts Portal Link]. You will receive real-time updates regarding any security concerns at the school. Would you like help setting up alerts?"
+  }
+},
+    
+  "contact_teacher": {
+    "response": "To contact your child's teacher, please use the [Teacher Contact Portal Link]. You can schedule a meeting, send a message, or request a call. Would you like assistance in reaching a specific teacher?",
+  "teacher_communication": {
+    "response": "For effective communication with teachers, you can send messages through the [Teacher Communication Portal Link] or attend scheduled parent-teacher meetings. Would you like help scheduling a meeting or sending a message?"
+  }
+},
+    
+  "schedule_meeting_with_teacher": {
+    "response": "To schedule a meeting with your child's teacher, please visit [Meeting Scheduling Portal Link]. Select a convenient date and time based on the teacher's availability. Would you like help booking a meeting?",
+  "meeting_booking": {
+    "response": "You can book a meeting with the teacher through [Meeting Booking Portal Link]. Choose a preferred slot, and you will receive a confirmation once it's scheduled. Would you like assistance with finding an available time?"
+  }
+},
+    
+  "student_attendance_report": {
+    "response": "To access the student attendance report, please visit [Attendance Report Portal Link]. You can view detailed attendance records for classes, sections, or individual students. Would you like help generating a specific report?",
+  "attendance_overview": {
+    "response": "The attendance overview provides insights into overall student attendance trends, including absence rates and punctuality. You can access this data at [Attendance Overview Portal Link]. Would you like assistance with analyzing the attendance trends?"
+  }
+},
+    
+  "teacher_performance_report": {
+    "response": "To access the teacher performance report, please visit [Teacher Performance Report Portal Link]. You can review evaluations based on class engagement, student feedback, and assessment outcomes. Would you like help generating a specific report?",
+  "performance_evaluation": {
+    "response": "The performance evaluation provides a detailed analysis of a teacher’s effectiveness, including student outcomes, attendance, and feedback. You can view this data at [Performance Evaluation Portal Link]. Would you like assistance in interpreting the evaluation metrics?"
+  }
+},
+    
+  "discipline_report": {
+    "response": "To access student discipline reports, please visit [Discipline Report Portal Link]. You can review records of behavioral incidents, disciplinary actions taken, and overall conduct reports. Would you like help generating a specific report?",
+  "student_discipline_tracking": {
+    "response": "Student discipline tracking provides real-time updates on behavioral records, including warnings, detentions, and commendations. You can access this data at [Student Discipline Tracking Portal Link]. Would you like assistance in monitoring a specific student’s discipline record?"
+  }
+},
+    
+  "school_budget_report": {
+    "response": "To access the school's budget report, please visit [School Budget Report Portal Link]. This report provides a detailed breakdown of income, expenses, and allocated funds. Would you like help retrieving a specific section of the budget report?",
+  "financial_analysis": {
+    "response": "The financial analysis includes insights into the school's expenditure, revenue sources, and cost-saving strategies. You can review this data at [Financial Analysis Portal Link]. Would you like assistance in interpreting financial trends or projections?"
+  }
+},
+    
+  "salary_approval": {
+    "response": "To approve salaries, please visit [Salary Approval Portal Link]. You can review and approve employee salary details before processing. Would you like help with the approval process?",
+  "salary_processing": {
+    "response": "Salary processing involves finalizing the salary details, tax deductions, and disbursements. You can process salaries through [Salary Processing Portal Link]. Would you like assistance with processing the salaries?"
+  }
+},
+    
+  "school_fee_collection": {
+    "response": "To manage school fee collections, please visit [Fee Collection Portal Link]. You can track received payments, outstanding fees, and generate fee receipts. Would you like help with managing fee collections?",
+  "fee_management": {
+    "response": "Fee management allows you to review, update, and manage fee structures, discounts, and payment schedules. You can access these features at [Fee Management Portal Link]. Would you like assistance with adjusting the fee management system?"
+  }
+},
+    
+  "maintenance_requests": {
+    "response": "To submit a maintenance request, please visit [Maintenance Request Portal Link]. You can report issues related to school facilities, and track the progress of the request. Would you like assistance with submitting a maintenance request?",
+  "facility_management": {
+    "response": "Facility management allows you to monitor and manage the maintenance of school buildings, equipment, and other facilities. You can review ongoing requests and schedules at [Facility Management Portal Link]. Would you like help with managing specific facilities?"
+   }
+ }
+}

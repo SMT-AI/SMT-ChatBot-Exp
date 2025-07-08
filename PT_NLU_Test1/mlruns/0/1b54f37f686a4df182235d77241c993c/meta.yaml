@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/1b54f37f686a4df182235d77241c993c/artifacts
+end_time: 1747120855838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b54f37f686a4df182235d77241c993c
+run_name: fun-carp-304
+run_uuid: 1b54f37f686a4df182235d77241c993c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747119402171
+status: 3
+tags: []
+user_id: sunildj

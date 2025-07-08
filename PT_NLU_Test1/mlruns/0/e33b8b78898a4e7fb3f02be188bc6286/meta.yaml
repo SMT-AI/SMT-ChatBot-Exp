@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/e33b8b78898a4e7fb3f02be188bc6286/artifacts
+end_time: 1746421304735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e33b8b78898a4e7fb3f02be188bc6286
+run_name: sincere-crow-175
+run_uuid: e33b8b78898a4e7fb3f02be188bc6286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746420774708
+status: 3
+tags: []
+user_id: sunildj

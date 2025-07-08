@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/e1fbe5bd31444a92928bd2533dcc99a9/artifacts
+end_time: 1747200044222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1fbe5bd31444a92928bd2533dcc99a9
+run_name: stylish-lark-773
+run_uuid: e1fbe5bd31444a92928bd2533dcc99a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747200014921
+status: 3
+tags: []
+user_id: sunildj

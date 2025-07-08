@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/a52a348ceff9498eb1e45365cdd80775/artifacts
+end_time: 1739524398498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a52a348ceff9498eb1e45365cdd80775
+run_name: fearless-crane-340
+run_uuid: a52a348ceff9498eb1e45365cdd80775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739524377600
+status: 3
+tags: []
+user_id: sunildj

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/af99a910979340a7bbc7b5b086158dd5/artifacts
+end_time: 1747122722449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af99a910979340a7bbc7b5b086158dd5
+run_name: resilient-tern-936
+run_uuid: af99a910979340a7bbc7b5b086158dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747121741931
+status: 3
+tags: []
+user_id: sunildj

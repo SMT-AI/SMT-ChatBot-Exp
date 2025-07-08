@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/2ecf215a649b4559a986ec12cb6c27c2/artifacts
+end_time: 1746424408200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ecf215a649b4559a986ec12cb6c27c2
+run_name: grandiose-dog-750
+run_uuid: 2ecf215a649b4559a986ec12cb6c27c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746422028269
+status: 3
+tags: []
+user_id: sunildj

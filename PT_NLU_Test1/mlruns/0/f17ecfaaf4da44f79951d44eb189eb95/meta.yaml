@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/f17ecfaaf4da44f79951d44eb189eb95/artifacts
+end_time: 1747126255882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f17ecfaaf4da44f79951d44eb189eb95
+run_name: dapper-loon-994
+run_uuid: f17ecfaaf4da44f79951d44eb189eb95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747125245676
+status: 3
+tags: []
+user_id: sunildj

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/0abac2e6078444ed8cdcadf4e6319002/artifacts
+end_time: 1746424840132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0abac2e6078444ed8cdcadf4e6319002
+run_name: upbeat-foal-580
+run_uuid: 0abac2e6078444ed8cdcadf4e6319002
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746424529795
+status: 3
+tags: []
+user_id: sunildj

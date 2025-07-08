@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/f114cdb43f60496393a55ad7524c7886/artifacts
+end_time: 1747196713687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f114cdb43f60496393a55ad7524c7886
+run_name: capable-roo-521
+run_uuid: f114cdb43f60496393a55ad7524c7886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747195277861
+status: 3
+tags: []
+user_id: sunildj

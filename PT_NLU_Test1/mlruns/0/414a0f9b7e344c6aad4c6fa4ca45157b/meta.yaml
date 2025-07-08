@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/414a0f9b7e344c6aad4c6fa4ca45157b/artifacts
+end_time: 1746421464367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 414a0f9b7e344c6aad4c6fa4ca45157b
+run_name: unleashed-conch-180
+run_uuid: 414a0f9b7e344c6aad4c6fa4ca45157b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746421456752
+status: 3
+tags: []
+user_id: sunildj

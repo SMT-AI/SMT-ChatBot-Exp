@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/bac884be6ec047b0bb474bed5da05973/artifacts
+end_time: 1747206181460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bac884be6ec047b0bb474bed5da05973
+run_name: classy-trout-12
+run_uuid: bac884be6ec047b0bb474bed5da05973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747204719713
+status: 3
+tags: []
+user_id: sunildj

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/9ad8d26c1e1e404b82dadd3c1c87c8af/artifacts
+end_time: 1747202688053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ad8d26c1e1e404b82dadd3c1c87c8af
+run_name: gifted-gnu-640
+run_uuid: 9ad8d26c1e1e404b82dadd3c1c87c8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747201469513
+status: 3
+tags: []
+user_id: sunildj

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/81191b3e127549bfb29ef407fc4b8e57/artifacts
+end_time: 1739520763237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81191b3e127549bfb29ef407fc4b8e57
+run_name: tasteful-gnu-490
+run_uuid: 81191b3e127549bfb29ef407fc4b8e57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739520745255
+status: 3
+tags: []
+user_id: sunildj

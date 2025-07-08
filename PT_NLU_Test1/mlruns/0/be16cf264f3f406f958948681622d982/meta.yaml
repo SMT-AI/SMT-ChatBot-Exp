@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/be16cf264f3f406f958948681622d982/artifacts
+end_time: 1747198498354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be16cf264f3f406f958948681622d982
+run_name: peaceful-hen-777
+run_uuid: be16cf264f3f406f958948681622d982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747197277272
+status: 3
+tags: []
+user_id: sunildj

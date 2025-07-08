@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/e1a391634350427e8fadc1905dc9cf7c/artifacts
+end_time: 1746421447745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1a391634350427e8fadc1905dc9cf7c
+run_name: indecisive-snail-98
+run_uuid: e1a391634350427e8fadc1905dc9cf7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746421319933
+status: 3
+tags: []
+user_id: sunildj

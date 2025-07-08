@@ -1,0 +1,501 @@
+{
+    "academic_session": {
+      "response": "The Academic Session module allows you to configure academic years and define their parameters to support the examination process effectively",
+  
+      "add_session": {
+        "response": "To add a new academic session:\n\n1. Go to the Academic Session configuration screen.\n2. Fill in the following fields:\n   * Academic Year (select from dropdown)\n   * Academic Pattern (ODD or EVEN)\n   * Start Date\n   * End Date\n   * Is Current Session (YES/NO)\n   * Show in Dropdown (YES/NO)\n3. Click the 'Save' button.\n4. The session will appear in the Academic Session List.\n\n(Navigation: Configuration → Academic Session)"
+      },
+  
+      "set_current_session": {
+        "response": "To mark a session as current:\n\n1. While adding or editing a session, set 'Is Current Session' to YES.\n2. Only one session can be marked current at a time.\n3. This setting ensures modules refer to the correct academic year.\n\n(Navigation: Configuration → Academic Session)"
+      },
+  
+      "show_in_dropdown": {
+        "response": "To control whether the session appears in dropdowns:\n\n1. Use the 'Show in Dropdown' option during session creation.\n2. Select YES if the session should be visible in other modules.\n3. Select NO if you want to hide it from dropdowns across modules.\n\n(Navigation: Configuration → Academic Session)"
+      },
+  
+      "search_session": {
+        "response": "To search for an academic session:\n\n1. Use the 'Search' bar above the Academic Session List table.\n2. You can filter sessions based on academic year or other criteria.\n3. Results will appear in the list for quick reference and editing.\n\n(Navigation: Configuration → Academic Session)"
+      },
+  
+      "edit_session": {
+        "response": "To edit an existing academic session:\n\n1. Locate the session in the Academic Session List.\n2. Click the edit icon next to the desired session.\n3. Modify fields like Academic Pattern, Dates, Is Current, or Show in Dropdown.\n4. Click Save to update the session.\n\n(Navigation: Configuration → Academic Session)"
+      }
+    },
+    
+    "department_and_programme": {
+      "response": "This module enables configuration of departments and mapping of programmes under each department. It’s a foundational setup used across the COE workflows.",
+  
+      "add_department": {
+        "response": "To add a new department:\n\n1. Navigate to the Department & Programme Configuration screen.\n2. Click the 'Add Department' button.\n3. Enter the following:\n   * Department Code\n   * Department Name\n4. Click 'Save'.\n5. The department will appear in the Department List.\n\n(Navigation: Configuration → Department & Programme)"
+      },
+  
+      "edit_or_delete_department": {
+        "response": "To edit or delete a department:\n\n1. Find the department in the Department List.\n2. Use the available edit or delete options from the Actions column.\n3. Confirm changes or deletion as prompted.\n\n(Navigation: Configuration → Department & Programme)"
+      },
+  
+      "map_programme_to_department": {
+        "response": "To map a programme to a department:\n\n1. Click the 'Actions' button beside a department in the list.\n2. Select 'View/Add Programmes'.\n3. In the popup dialog, fill in the following:\n   * Programme Type (UG Major, UG Minor, PG, Ph.D.)\n   * Programme Code\n   * Programme Name\n   * Programme Short Name\n4. Click the '+' icon to add more programmes if needed.\n5. Click 'Map' to save the mapping.\n\n(Navigation: Configuration → Department & Programme)"
+      },
+  
+      "view_mapped_programmes": {
+        "response": "To view the programmes mapped to a department:\n\n1. Go to the Department List.\n2. Click 'View/Add Programmes' from the Actions menu next to a department.\n3. All existing mappings will be visible in the popup dialog.\n\n(Navigation: Configuration → Department & Programme)"
+      },
+  
+      "delete_programme_mapping": {
+        "response": "To delete a mapped programme:\n\n1. Open the 'View/Add Programmes' dialog from the desired department.\n2. Click the delete icon (trash can) next to the programme you wish to remove.\n3. Confirm the deletion.\n\n(Navigation: Configuration → Department & Programme)"
+      }
+    },
+    
+    "course_category": {
+      "response": "The Course Category module helps you define various course classifications used for internal/external assessments and CGPA calculations.",
+  
+      "add_course_category": {
+        "response": "To add a new course category:\n\n1. Click the '+ Add Course Category' button.\n2. In the popup form, fill the following fields:\n   * Course Category (full name)\n   * Short Name (abbreviation)\n   * Internal Required (Yes/No)\n   * External Required (Yes/No)\n   * Include for CGPA Calculation (Yes/No)\n   * Verticals Applicable (Yes/No)\n3. Click 'Save' to add the category.\n\n(Navigation: Configuration → Course Category)"
+      },
+  
+      "edit_course_category": {
+        "response": "To edit an existing course category:\n\n1. Locate the category in the Course Category list.\n2. Use the edit icon from the Actions column.\n3. Update any of the existing fields.\n4. Click 'Save' to confirm changes.\n\n(Navigation: Configuration → Course Category)"
+      },
+  
+      "delete_course_category": {
+        "response": "To delete a course category:\n\n1. Open the Course Category configuration screen.\n2. Click the delete icon beside the category in the list.\n3. Confirm the deletion when prompted.\n\n(Navigation: Configuration → Course Category)"
+      },
+  
+      "set_cgpa_inclusion": {
+        "response": "To include or exclude a course category from CGPA calculation:\n\n1. While adding or editing the category, use the option 'Course to be Included for CGPA Calculation'.\n2. Select 'Yes' to include it or 'No' to exclude it.\n3. Save your changes to update the policy.\n\n(Navigation: Configuration → Course Category)"
+      },
+  
+      "set_vertical_classification": {
+        "response": "To enable vertical classification:\n\n1. In the Add/Edit Course Category form, select 'Yes' for 'Verticals Applicable'.\n2. This will activate vertical mapping for the respective category.\n3. Save your configuration.\n\n(Navigation: Configuration → Course Category)"
+      }
+    },
+    
+    
+    "course_type": {
+      "response": "The Course Type module allows configuration of various course formats along with assessment weightages and passing criteria.",
+  
+      "add_course_type": {
+        "response": "To add a new course type:\n\n1. Navigate to the Course Type Configuration screen.\n2. Click the '+ Add Course Type' button.\n3. In the dialog box, select a Course Type from the dropdown.\n4. Default weightage and minimum marks will auto-fill.\n5. Modify them if required.\n6. Click 'Submit' to save.\n\n(Navigation: Configuration → Course Type)"
+      },
+  
+      "edit_course_type": {
+        "response": "To edit an existing course type:\n\n1. Locate the course type in the Course Type List.\n2. Click the edit icon in the Actions column.\n3. Adjust the weightage or minimum passing mark as needed.\n4. Click 'Submit' to update.\n\n(Navigation: Configuration → Course Type)"
+      },
+  
+      "view_course_type_list": {
+        "response": "To view existing course types:\n\n1. Open the Course Type Configuration screen.\n2. Scroll through the 'Course Type List' table.\n3. You can see all configured course types and their weightage.\n\n(Navigation: Configuration → Course Type)"
+      },
+  
+      "search_course_type": {
+        "response": "To search for a specific course type:\n\n1. Use the 'Search' bar located above the Course Type List table.\n2. Enter keywords like course type name or details.\n3. The matching results will be displayed instantly.\n\n(Navigation: Configuration → Course Type)"
+      }
+    },
+    
+    
+    "regulation_configuration": {
+      "response": "The Regulation Configuration module allows the creation and management of academic regulations that act as the foundation for setting up batches, departments, programmes, and courses.",
+  
+      "add_regulation": {
+        "response": "To add a new regulation:\n\n1. Go to the Regulation Configuration screen.\n2. Click inside the 'Regulation' input field.\n3. Enter the regulation name or code (e.g., R-2024).\n4. Click the 'Save' button.\n5. The regulation will appear in the list with configuration statuses.\n\n(Navigation: Configuration → Regulation Configuration)"
+      },
+  
+      "view_edit_regulation": {
+        "response": "To view or edit a regulation:\n\n1. Go to the list of created regulations.\n2. Use the 'Actions' menu (three dots) beside the regulation.\n3. Choose 'View/Add Batch', 'View/Add Department', or 'View/Add Programme' to edit respective mappings.\n\n(Navigation: Configuration → Regulation Configuration)"
+      },
+  
+      "map_batch_to_regulation": {
+        "response": "To map batches under a regulation:\n\n1. From the Regulation list, go to 'Actions' → 'View/Add Batch'.\n2. Use the '+ Add Batches' button to enter batch years (e.g., 2024).\n3. Use '+' to add more batches or trash icon to remove any.\n4. Click 'Save' to store the batches under the selected regulation.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Batches)"
+      },
+  
+      "map_department_to_regulation": {
+        "response": "To map departments under a regulation:\n\n1. Go to 'Actions' → 'View/Add Departments' from the desired regulation.\n2. On the Department Mapping screen, click 'Map Departments'.\n3. Select or deselect the required departments from the popup.\n4. Click 'Map' to finalize the mapping.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Departments)"
+      },
+  
+      "map_programme_to_regulation": {
+        "response": "To map programmes under a regulation:\n\n1. Go to 'Actions' → 'View/Add Programme' from the regulation list.\n2. Choose a department.\n3. Select the academic year and rule from dropdowns.\n4. Use the programme mapping interface to check and map programmes.\n5. Click 'Confirm' to save.\n\n(Navigation: Setup for Academic Structure → Setup for Rule Configuration → Programme Mapping)"
+      }
+    },
+    
+    
+    "batch_configuration": {
+      "response": "The Batch Configuration module allows creation of admission years (batches) under specific regulations. Each batch is mapped with departments, programmes, and courses for academic management.\n\n* Each batch is linked to a regulation.\n* Batches serve as the base unit for course and student mapping.\n* Used throughout the COE lifecycle, including enrolment and examination.",
+  
+      "add_batch": {
+        "response": "To add a new batch:\n\n1. Navigate to Regulation Configuration.\n2. Click 'View/Add Batches' under the Actions column for a regulation.\n3. Click the '+ Add Batches' button.\n4. Enter the 'Year of Admission' (e.g., 2024).\n5. Use the '+' icon to add more entries.\n6. Click 'Save' to store the batch.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Batches)"
+      },
+  
+      "delete_batch": {
+        "response": "To delete a batch:\n\n1. Open the batch list under a specific regulation using 'View/Add Batches'.\n2. Use the delete (trash can) icon next to the batch you wish to remove.\n3. Confirm the deletion when prompted.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Batches)"
+      },
+  
+      "view_batch_list": {
+        "response": "To view configured batches:\n\n1. Go to Regulation Configuration → View/Add Batches.\n2. The list of all batches for the selected regulation will appear.\n3. Each batch will display configuration statuses for departments, programmes, and courses.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Batches)"
+      },
+  
+      "search_batch": {
+        "response": "To search for a batch:\n\n1. Use the 'Search' bar above the Batch List.\n2. Enter the year or any related text.\n3. Matching batches will appear in the list instantly.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Batches)"
+      },
+  
+      "check_batch_status": {
+        "response": "To check configuration status of a batch:\n\n1. Go to the batch list under a regulation.\n2. Each batch entry will show if departments, programmes, and courses are mapped.\n3. You can click on each to configure or view details.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Batches)"
+      }
+    },
+    
+    "department_mapping": {
+      "response": "The Department Mapping module is used to associate departments with a specific batch under a selected regulation. This step is required to enable further programme and course configuration.\n\n* Departments must be created and mapped beforehand.\n* Mapping links a department to a batch.\n* It's a prerequisite for programme and course setup under that batch.",
+  
+      "map_departments_to_batch": {
+        "response": "To map departments to a batch:\n\n1. Go to Regulation Configuration.\n2. Click 'View/Add Departments' in the Actions column for the relevant regulation.\n3. Confirm the displayed regulation and batch.\n4. Click the 'Map Departments' button.\n5. A popup will appear showing available departments.\n6. Select or deselect departments as required.\n7. Click 'Map' to save your selections.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Departments)"
+      },
+  
+      "edit_department_mapping": {
+        "response": "To edit department mappings:\n\n1. Reopen the department mapping screen for the selected batch and regulation.\n2. Click 'Map Departments' again.\n3. Adjust selections as needed in the popup.\n4. Click 'Map' to update the configuration.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Departments)"
+      },
+  
+      "delete_department_mapping": {
+        "response": "To remove a mapped department:\n\n1. Go to the Department Mapping screen via 'View/Add Departments'.\n2. Deselect the department in the popup.\n3. Click 'Map' to apply changes.\n4. This will unmap the department from the batch.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Departments)"
+      },
+  
+      "view_mapped_departments": {
+        "response": "To view departments mapped to a batch:\n\n1. From the Regulation Configuration screen, click 'View/Add Departments'.\n2. The mapping screen will list all departments already linked.\n3. Use this view to confirm existing configuration.\n\n(Navigation: Configuration → Regulation Configuration → View/Add Departments)"
+      }
+    },
+    
+    "programme_mapping": {
+      "response": "The Programme Mapping module is used to associate academic programmes with specific departments for a given academic year and regulation. This ensures proper alignment of courses and rules under each department.\n\n* Programmes must be created and departments must be mapped first.\n* Mapping enables course configuration and student enrolment.\n* It supports both UG, PG, and Minor programmes.",
+  
+      "map_programmes_to_department": {
+        "response": "To map programmes to a department:\n\n1. Go to Programme Mapping under Setup for Rule Configuration.\n2. Select the Academic Rule and Academic Year from the dropdowns.\n3. Choose the department from the list.\n4. Click the 'Map Programmes' button.\n5. In the popup, select the relevant academic programmes.\n6. Click 'Confirm' to save the mapping.\n\n(Navigation: Menu → Setup for Academic Structure → Setup for Rule Configuration → Programme Mapping)"
+      },
+  
+      "view_mapped_programmes": {
+        "response": "To view mapped programmes:\n\n1. Open the Programme Mapping screen.\n2. Select the Academic Year, Rule, and Department.\n3. The listing grid will show all mapped programmes and associated courses.\n\n(Navigation: Menu → Setup for Academic Structure → Setup for Rule Configuration → Programme Mapping)"
+      },
+  
+      "edit_programme_mapping": {
+        "response": "To edit existing programme mappings:\n\n1. Navigate to the Programme Mapping screen.\n2. Choose the rule, academic year, and department.\n3. Click 'Map Programmes'.\n4. Update your selections in the popup.\n5. Click 'Confirm' to apply the changes.\n\n(Navigation: Menu → Setup for Academic Structure → Setup for Rule Configuration → Programme Mapping)"
+      },
+  
+      "remove_programme_mapping": {
+        "response": "To remove a mapped programme:\n\n1. Open the 'Map Programmes' popup for the department.\n2. Deselect the previously selected programme.\n3. Click 'Confirm' to save the updated mapping.\n\n(Navigation: Menu → Setup for Academic Structure → Setup for Rule Configuration → Programme Mapping)"
+      }
+    },
+    
+     
+    "course_creation": {
+      "response": "The Course Creation module enables configuration of courses under each Programme for a selected batch. The courses include detailed attributes like course code, title, credit, category, type, and common course mapping.\n\n* Requires preconfigured regulation, batches, departments, course categories, and course types.\n* Courses can be semester-specific.\n* Common courses can be mapped across other programmes.",
+  
+      "add_course": {
+        "response": "To add a new course:\n\n1. Navigate to: Regulation → View/Add Batches → View/Add Programmes → Add Course.\n2. Select the Programme from the dropdown.\n3. Click 'Add Course'.\n4. Fill in these fields:\n   * Course Category (dropdown)\n   * Semester (if applicable)\n   * Course Code\n   * Course Title\n   * Course Credit\n   * Course Type (dropdown)\n   * Common Course (Yes/No)\n5. Click 'Save' to add the course.\n\n(Navigation: Configuration → Regulation → View/Add Batches → View/Add Programmes → Add Course)"
+      },
+  
+      "view_or_edit_course": {
+        "response": "To view or edit existing courses:\n\n1. Navigate to: Regulation → View/Add Batches → View/Add Programmes.\n2. Click 'View Courses' under the Actions menu.\n3. Use the eye icon to view course details.\n4. Use the pencil icon to edit any course.\n\n(Navigation: Configuration → Regulation → View/Add Batches → View/Add Programmes)"
+      },
+  
+      "map_common_course": {
+        "response": "To map a course as a Common Course:\n\n1. While adding a course, set 'Common Course' to 'Yes'.\n2. A section appears to select:\n   * Other Programmes where the course should be mapped.\n   * Semester for those mapped programmes.\n3. Select the desired mappings.\n4. Click 'Save' to complete the mapping.\n\n(Navigation: Configuration → Regulation → View/Add Batches → View/Add Programmes → Add Course)"
+      },
+  
+      "set_semester": {
+        "response": "To set the semester for a course:\n\n1. While adding a course under a UG Major or PG Programme, you will see the 'Semester' dropdown.\n2. Choose the appropriate semester number for the course.\n3. For UG Minor and Ph.D., this field will not appear.\n\n(Navigation: Configuration → Regulation → View/Add Batches → View/Add Programmes → Add Course)"
+      },
+  
+      "configure_course_credits_and_type": {
+        "response": "To configure the course credits and type:\n\n1. In the Add Course form:\n   * Enter the total Course Credit manually.\n   * Select the Course Type from the dropdown (previously configured).\n2. These define the nature and weightage of internal and external evaluations.\n3. Click 'Save' once configuration is complete.\n\n(Navigation: Configuration → Regulation → View/Add Batches → View/Add Programmes → Add Course)"
+      }
+    },
+    
+    
+    "student_onboarding": {
+      "response": "The Student Onboarding module enables the institution to onboard students into the COE ERP either individually or in bulk, ensuring student records are prepared for further academic and examination activities.\n\n* Students can be added individually with detailed information.\n* Bulk onboarding using Excel template is supported.\n* Profile photo upload can also be done in bulk.\n* View and edit functionalities are available for student records.",
+  
+      "add_individual_student": {
+        "response": "To add a student individually:\n\n1. Go to Student → Student Onboard.\n2. Click the 'Add New' button.\n3. Fill in the following fields:\n   - Batch (dropdown)\n   - Programme (dropdown)\n   - Department (auto-fetched)\n   - Current Semester\n   - Register Number\n   - First/Last Name\n   - Gender, DOB\n   - Email, Mobile Number\n   - EMIS, UMIS, ABC ID, DOTE Approval Number, Aadhaar Number\n   - Minor Programme and Department (if applicable)\n   - Photo\n4. Click 'Save' to onboard the student.\n\n(Navigation: Student → Student Onboard)"
+      },
+  
+      "bulk_upload_students": {
+        "response": "To bulk upload student data:\n\n1. Navigate to Student → Student Onboard.\n2. Click the 'Download Template' button.\n3. Fill in the Excel sheet with student details and save.\n4. Click 'Upload' to upload the filled template.\n5. The students will be listed once uploaded.\n\n(Navigation: Student → Student Onboard)"
+      },
+  
+      "view_edit_student_list": {
+        "response": "To view or edit student records:\n\n1. Navigate to Student → Student Onboard.\n2. Use any combination of Batch, Programme, and Department dropdowns.\n3. Click 'Show Students' to view the list.\n4. Use 'View/Edit' under Actions for any student to modify data.\n\n(Navigation: Student → Student Onboard)"
+      },
+  
+      "upload_student_photos": {
+        "response": "To upload student photos in bulk:\n\n1. Navigate to Student → Student Onboard.\n2. Select Batch, Programme, and Department.\n3. Click 'Student Profile Bulk Upload'.\n4. Select the folder with student photos.\n5. Click 'Validate Files' to verify file formats.\n6. Click 'Finalize' to complete photo upload.\n\n(Navigation: Student → Student Onboard)"
+      }
+    },
+    
+    "evaluation_methodology": {
+      "response": "The Evaluation Methodology module allows institutions to configure the grading system, which includes grade points, letter grades, and their corresponding mark ranges. This setup forms the basis for result computation.\n\n* Grading schemes can be customized for different programme types (UG/PG).\n* Each grading entry consists of mark range, grade point, and description.\n* Multiple grades can be added and modified as per institutional policy.",
+  
+      "add_grading_scheme": {
+        "response": "To add a grading scheme:\n\n1. Navigate to Configuration → Evaluation Methodology.\n2. Click the 'Add New' button.\n3. Select the Programme Type (e.g., UG or PG).\n4. For each grade, enter:\n   - Grade Points Range\n   - Range of Marks\n   - Letter Grade\n   - Description\n5. Use the '+' icon to add multiple grading rows.\n6. Click 'Save' to finalize the grading scheme.\n\n(Navigation: Configuration → Evaluation Methodology)"
+      },
+  
+      "edit_grade_ranges": {
+        "response": "To edit a grade range:\n\n1. Navigate to Configuration → Evaluation Methodology.\n2. Locate the existing grading scheme for the desired Programme Type.\n3. Use the edit option (if provided) to modify any of the fields:\n   - Grade Points Range\n   - Range of Marks\n   - Letter Grade\n   - Description\n4. Save the changes to update the grading scheme.\n\n(Navigation: Configuration → Evaluation Methodology)"
+      },
+  
+      "save_evaluation_structure": {
+        "response": "To save the evaluation structure:\n\n1. After entering or editing all required grade entries in the grading scheme form,\n2. Click the 'Save' button to save the complete evaluation structure.\n3. The configuration will be applied to the selected Programme Type.\n\n(Navigation: Configuration → Evaluation Methodology)"
+      }
+    },
+    
+     "exam_data_migration": {
+      "response": "The Exam Data Migration module is used to upload historical exam results into the ERP system, ensuring legacy exam data is available for reference and analytics.\n\n* Historic exams are created using predefined templates.\n* Exam results can be uploaded via Excel sheets.\n* Supports editing and viewing uploaded results.",
+  
+      "upload_historic_data": {
+        "response": "To upload historic exam data:\n\n1. Navigate to Student → History Data.\n2. Click 'Download Template' to get the Excel format.\n3. Fill in the student result details as per the template.\n4. Ensure Academic Sessions, Programmes, Regulations, and Students are pre-configured.\n\n(Navigation: Student → History Data)"
+      },
+  
+      "create_historical_exam": {
+        "response": "To create a historical exam:\n\n1. Enter the following fields:\n   - Academic Session (dropdown)\n   - Examination Title\n   - Month & Year of Examination\n2. Click 'Create Exam'.\n3. The created exam will appear in the table with 'Result Status' as 'Upload'.\n\n(Navigation: Student → History Data)"
+      },
+  
+      "view_edit_historical_results": {
+        "response": "To view or edit uploaded historical exam results:\n\n1. Click 'View' next to the created exam in the list.\n2. Select Programme, Semester, and Course.\n3. Click 'Search' to view the uploaded results.\n4. Edit any student’s marks as needed and click 'Update' to save changes.\n\n(Navigation: Student → History Data)"
+      }
+    },
+    
+    "course_enrollment": {
+      "response": "The Course Enrollment module allows students to be enrolled in their respective courses for the current semester, including both main and vertical (elective) courses, to ensure readiness for upcoming exams.\n\n* Students are mapped to both core and elective courses.\n* The process includes previewing and saving course mappings.",
+  
+      "enroll_students_to_main_courses": {
+        "response": "To enroll students into main courses:\n\n1. Navigate to Student → Course Enrollment.\n2. Select the following:\n   - Batch\n   - Department\n   - Programme\n   - Semester\n3. Click on 'Preview & Map Courses'.\n4. The default course list will be displayed.\n5. Review and click 'Save' if the listed courses are correct.\n\n(Navigation: Student → Course Enrollment)"
+      },
+  
+      "map_vertical_courses": {
+        "response": "To map vertical (elective) courses:\n\n1. On the same Course Enrollment screen, locate the Vertical Course list.\n2. For each vertical, use the Course Code dropdown to select the course.\n3. Click 'Select Students' and choose the students who opted for that course.\n4. Repeat until all students are mapped to a vertical course.\n5. Click 'Save' to finalize.\n\n(Navigation: Student → Course Enrollment)"
+      },
+  
+      "select_student_course_mapping": {
+        "response": "To manage specific student-course mapping:\n\n1. After selecting the Batch, Programme, and Semester, use the 'Select Students' option in the Vertical Course list.\n2. Choose the appropriate course per student group.\n3. Continue this process until each student is mapped.\n4. Use the 'Save' button to confirm the enrollments.\n\n(Navigation: Student → Course Enrollment)"
+      }
+    },
+    
+    "minor_course_enrollment": {
+      "response": "The Minor Course Enrollment module is used to enroll students pursuing minor or honor programmes into their respective courses for examination purposes.\n\n* Students are enrolled in courses under their selected minor programme.\n* Mapping is based on academic session, regulation, and department.",
+  
+      "enroll_to_minor_honor_courses": {
+        "response": "To enroll students to minor/honor courses:\n\n1. Navigate to Student → Minor Course Enrollment.\n2. Select the following:\n   - Academic Session\n   - Regulation\n   - Minor Programme\n   - Department (auto-fetched)\n3. Click 'Preview & Map Courses'.\n4. The student list and their minor course details will be displayed.\n5. Select the course for each student for the current exam.\n6. Click 'Enroll' to save the enrollments.\n\n(Navigation: Student → Minor Course Enrollment)"
+      },
+  
+      "view_enrolled_students": {
+        "response": "To view students enrolled in a minor programme:\n\n1. After selecting Academic Session, Regulation, and Minor Programme, the student list will appear automatically.\n2. The list includes students enrolled and the courses assigned under the selected minor programme.\n\n(Navigation: Student → Minor Course Enrollment)"
+      },
+  
+      "save_enrollment": {
+        "response": "To save minor course enrollment:\n\n1. After reviewing and assigning courses to each student,\n2. Click the 'Enroll' button at the bottom of the screen.\n3. The enrollment will be saved and linked to the student profile.\n\n(Navigation: Student → Minor Course Enrollment)"
+      }
+    },
+    
+     "examination_management": {
+      "response": "The Examination Management module encompasses the entire lifecycle of an exam—from creation to scheduling, attendance, hall tickets, examiner appointments, and question paper finalization.\n\n* Covers both internal and practical/theory exam activities.\n* Streamlines scheduling, faculty involvement, and documentation.",
+  
+      "create_exam": {
+        "response": "To create an exam:\n\n1. Navigate to Menu → Examinations.\n2. Fill in the following:\n   - Academic Session\n   - Exam Type\n   - Exam Title\n   - Month & Year of Exam\n   - Exam Start and End Dates\n   - Select Batches\n   - Days to be Excluded (if any)\n3. Click 'Proceed to Exam / Timetable Creation'.\n\n(Navigation: Menu → Examinations)"
+      },
+  
+      "add_internal_marks": {
+        "response": "To add internal marks:\n\n1. Go to Menu → Examinations → 'View More' for the exam → Pre-Examination → Add Internal Marks.\n2. Select:\n   - Programme\n   - Semester\n   - Course\n3. Click 'Search'.\n4. Enter marks for each student and click 'Save'.\n\n(Navigation: Menu → Examinations → Pre-Examination → Add Internal Marks)"
+      },
+  
+      "create_practical_timetable": {
+        "response": "To create a practical exam timetable:\n\n1. Navigate to Menu → Examinations → 'View More' for the exam → Pre-Examination → Practical → Timetable.\n2. Click 'Create' under Actions for the programme.\n3. For each practical course:\n   - Click 'Edit', enter number of sessions.\n   - Schedule each session (Date, Time, Hall, Examiner, etc.).\n4. Save the schedule. You may download it as PDF using 'PDF Report'.\n\n(Navigation: Menu → Examinations → Pre-Examination → Practical → Timetable)"
+      },
+  
+      "mark_practical_attendance": {
+        "response": "To mark practical exam attendance:\n\n1. Navigate to Menu → Examinations → 'View More' → Pre-Examination → Practical → Add Attendance.\n2. Select:\n   - Programme\n   - Semester\n   - Course\n   - Exam Date and Session\n3. Click 'Search'.\n4. Mark each student as Present or Absent.\n5. Click 'Save'. Attendance can also be downloaded as PDF.\n\n(Navigation: Menu → Examinations → Pre-Examination → Practical → Add Attendance)"
+      },
+  
+      "create_theory_timetable": {
+        "response": "To create a theory timetable:\n\n1. Navigate to Menu → Examinations → 'View More' → Pre-Examination → Theory Timetable → Create Timetable.\n2. For each exam date and session:\n   - Click 'Add'.\n   - Select Semester and Course Code.\n   - Select applicable Programmes.\n   - Repeat for other courses or click 'Submit'.\n3. Click 'Download PDF' to export the timetable.\n\n(Navigation: Menu → Examinations → Pre-Examination → Theory Timetable → Create Timetable)"
+      },
+  
+      "postpone_exams": {
+        "response": "To postpone an exam:\n\n1. Navigate to Menu → Examinations → 'View More' → Pre-Examination → Theory Timetable → Postpone Exam.\n2. Click 'Add New'.\n3. Select the current exam date and click 'Search'.\n4. Select courses to be postponed.\n5. Enter Postpone Date and Remarks.\n6. Click 'Confirm Postpone'.\n\n(Navigation: Menu → Examinations → Pre-Examination → Theory Timetable → Postpone Exam)"
+      },
+  
+      "generate_download_hall_tickets": {
+        "response": "To generate or download hall tickets:\n\n1. Navigate to Menu → Examinations → 'View More' → Pre-Examination → Hall Ticket.\n2. Click 'Generate' to prepare hall tickets for a programme.\n3. Click 'Download' to get the PDF.\n4. For individual student hall tickets, select Batch and Register Number, then click 'Download'.\n\n(Navigation: Menu → Examinations → Pre-Examination → Hall Ticket)"
+      },
+  
+      "appoint_examiners": {
+        "response": "To appoint examiners:\n\n1. Navigate to Menu → Examinations → 'View More' → Pre-Examination → Examination Appointments.\n2. Select Programme and Semester.\n3. Click 'Search'.\n4. Click '+ Add' in the table to assign:\n   - Examiner Type (Internal/External)\n   - Select Faculty\n5. Click 'Submit'. Download full appointment list using 'Download'.\n\n(Navigation: Menu → Examinations → Pre-Examination → Examination Appointments)"
+      },
+  
+      "send_invitations": {
+        "response": "To send exam duty invitations:\n\n1. Go to Menu → Examinations → 'View More' → Pre-Examination → Invitation → Send Invitations.\n2. Click 'Compose'.\n3. Select:\n   - Role Type\n   - Template\n   - Recipients\n4. Review auto-fetched email body and click 'Send'.\n5. Use the 'Sent' tab to view already sent invitations.\n\n(Navigation: Menu → Examinations → Pre-Examination → Invitation → Send Invitations)"
+      },
+  
+      "assign_question_paper_format": {
+        "response": "To assign question paper formats:\n\n1. Navigate to Menu → Examinations → 'View More' → Pre-Examination → Question Paper → Format Assign.\n2. Select:\n   - Semester\n   - Course Type\n   - Question Format\n3. Click 'Save'. Use 'Edit' in the table to change format for specific courses.\n\n(Navigation: Menu → Examinations → Pre-Examination → Question Paper → Format Assign)"
+      },
+  
+      "finalize_question_paper": {
+        "response": "To finalize question papers:\n\n1. Navigate to Menu → Examinations → 'View More' → Pre-Examination → Question Paper → QP Finalize.\n2. Confirm approval details, application counts, and printing details.\n3. Finalize the question paper for each course.\n\n(Navigation: Menu → Examinations → Pre-Examination → Question Paper → QP Finalize)"
+      }
+    },
+    
+     "infrastructure_management": {
+      "response": "The Infrastructure Management module is used to configure the physical infrastructure of the institution such as blocks, floors, room types, and examination halls, which are essential for conducting exams.\n\n* Block, Floor, Room Types, and Hall setup must be completed.\n* Each step builds upon the previous for accurate hall planning and seat allocation.",
+  
+      "block_configuration": {
+        "response": "To configure institution blocks:\n\n1. Navigate to Menu → Infrastructure → Block Master.\n2. Click 'Add New'.\n3. Enter:\n   - Block Name\n   - Description\n   - Status (Active/Inactive)\n4. Click 'Save'.\n5. The configured block will appear in the Block Master List.\n\n(Navigation: Menu → Infrastructure → Block Master)"
+      },
+  
+      "floor_configuration": {
+        "response": "To configure floors within blocks:\n\n1. Navigate to Menu → Infrastructure → Floor Master.\n2. Click 'Add New'.\n3. Enter:\n   - Block Name (select from dropdown)\n   - Floor Name\n   - Description\n   - Status (Active/Inactive)\n4. Click 'Save' to create the floor.\n\n(Navigation: Menu → Infrastructure → Floor Master)"
+      },
+  
+      "room_type_setup": {
+        "response": "To configure room types:\n\n1. Navigate to Menu → Infrastructure → Room Types.\n2. Click 'Add New'.\n3. Enter:\n   - Room Name\n   - Description\n   - Status (Active/Inactive)\n4. Click 'Save'.\n5. The saved room types will appear in the Room Types List.\n\n(Navigation: Menu → Infrastructure → Room Types)"
+      },
+  
+      "hall_master_setup": {
+        "response": "To configure examination halls:\n\n1. Navigate to Menu → Infrastructure → Hall Master.\n2. Click 'Add New'.\n3. Enter:\n   - Block (dropdown)\n   - Floor (dropdown)\n   - Room Type (dropdown)\n   - Room No.\n   - Rows\n   - Columns\n   - Status (Active/Inactive)\n4. Capacity is auto-calculated.\n5. Click 'Save' to finalize the hall configuration.\n\n(Navigation: Menu → Infrastructure → Hall Master)"
+      }
+    },
+    
+    
+    "faculty_management": {
+      "response": "The Faculty Management module enables the registration and management of internal and external faculties for examination duties, including generating login credentials and tracking access expiry.\n\n* External registration is link-based.\n* Internal/external faculty details can be viewed and managed.\n* Login expiry for external users can be monitored.",
+  
+      "generate_registration_link": {
+        "response": "To generate a faculty registration link:\n\n1. Navigate to Faculties → Generate Link.\n2. Click the 'Generate Link' button.\n3. The link will be generated.\n4. Copy and share the link with faculties for registration.\n\n(Navigation: Faculties → Generate Link)"
+      },
+  
+      "manage_internal_external_faculties": {
+        "response": "To manage internal/external faculties:\n\n1. Navigate to Faculties → Internal / External.\n2. The list of faculties registered for exam duties will be displayed.\n3. Click 'Create Credential' to generate login credentials.\n4. Click 'Download Credential' to export them as an Excel file.\n\n(Navigation: Faculties → Internal / External)"
+      },
+  
+      "track_login_expiry": {
+        "response": "To track login expiry of external faculties:\n\n1. Navigate to Faculties → External Login Expiry.\n2. The screen shows the access validity of external faculty logins.\n3. Monitor and update as required.\n\n(Navigation: Faculties → External Login Expiry)"
+      }
+    },
+    
+    "exam_hall_planning": {
+      "response": "The Exam Hall Planning module is used to allocate examination halls, generate seat plans, and prepare invigilator duty charts based on the exam timetable and hall configurations.\n\n* Allocates halls by date and session.\n* Generates seat plans for all courses.\n* Assigns invigilators based on configured infrastructure.",
+  
+      "allocate_halls": {
+        "response": "To allocate examination halls:\n\n1. Navigate to Menu → Examinations → View More → Pre-Examination → Exam Hall Planning → Allocate Halls.\n2. Enter:\n   - Exam Date\n   - Exam Session (FN/AN)\n   - Block\n3. Click 'Search'.\n4. View student count and available room details.\n5. Click on a room number to view allocation table.\n6. Allocate students and submit to finalize hall allocation.\n\n(Navigation: Menu → Examinations → View More → Pre-Examination → Exam Hall Planning → Allocate Halls)"
+      },
+  
+      "generate_seat_plans": {
+        "response": "To generate seat plans:\n\n1. Navigate to Menu → Examinations → View More → Pre-Examination → Exam Hall Planning → Seat Plans.\n2. Select Exam Date and Session.\n3. Click 'Search' to load allocated rooms.\n4. Click 'Generate' on the top-right of the table.\n5. The seat plan can be downloaded as a PDF.\n\n(Navigation: Menu → Examinations → View More → Pre-Examination → Exam Hall Planning → Seat Plans)"
+      },
+  
+      "create_invigilator_duty_chart": {
+        "response": "To create invigilator duty chart:\n\n1. Navigate to Menu → Examinations → View More → Pre-Examination → Duty Chart.\n2. Select Exam Date and Session.\n3. Click 'Search' to load the hall list.\n4. For each hall, select:\n   - Type of Examiner\n   - Faculty\n5. After assigning invigilators, click 'Download' to export the duty chart.\n\n(Navigation: Menu → Examinations → View More → Pre-Examination → Duty Chart)"
+      }
+    },
+    
+     "attendance_tracking": {
+      "response": "The Attendance Tracking module allows marking and managing attendance for both students and faculty during examination sessions, including assigning substitutes if necessary.\n\n* Attendance is marked per session.\n* Reports can be downloaded.\n* Substitutes can be assigned for absent faculty.",
+  
+      "mark_student_attendance": {
+        "response": "To mark student attendance:\n\n1. Navigate to Menu → Examinations → View More → On-Examination → Student Attendance.\n2. The screen shows course-wise entries with:\n   - 'Download Sheet' (to get PDF attendance sheet)\n   - 'Add Attendance' (to mark manually)\n3. Click 'Add Attendance' for the course.\n4. Select Programme → mark students as Present or Absent.\n5. Click 'Save Attendance'.\n6. Attendance can be downloaded using 'Download' button.\n\n(Navigation: Menu → Examinations → View More → On-Examination → Student Attendance)"
+      },
+  
+      "mark_faculty_attendance": {
+        "response": "To mark faculty attendance:\n\n1. Navigate to Menu → Examinations → View More → On-Examination → Faculty Attendance.\n2. Select Exam Date and Session.\n3. Click 'Search'.\n4. Faculty assigned for each room will be listed.\n5. Mark each as Present (P) or Absent (A).\n6. Click 'Save Attendance'.\n7. Click 'Download' to export the report.\n\n(Navigation: Menu → Examinations → View More → On-Examination → Faculty Attendance)"
+      },
+  
+      "assign_substitutes": {
+        "response": "To assign substitutes for absent faculty:\n\n1. On the Faculty Attendance screen, click 'Assign Substitute' for an absent examiner.\n2. Fill in the following:\n   - Examiner Name (already assigned)\n   - Examiner Type (dropdown)\n   - Substitute Name (dropdown)\n3. Click 'Save' to confirm the replacement.\n\n(Navigation: Menu → Examinations → View More → On-Examination → Faculty Attendance)"
+      }
+    },
+    
+    "malpractice_handling": {
+      "response": "The Malpractice Handling module allows booking and managing student malpractice cases during examinations. Users can upload evidence, categorize the offense, and record remarks.\n\n* Ensures examination integrity through formal incident tracking.\n* Supports file uploads and categorization of offenses.",
+  
+      "book_malpractice_cases": {
+        "response": "To book a malpractice case:\n\n1. Navigate to Menu → Examinations → View More → On-Examination → Malpractice Booking.\n2. Click '+ Add New'.\n3. In the dialog box, enter:\n   - Course (dropdown)\n   - Student Name (dropdown)\n   - Unfair Category (dropdown)\n   - Attachment (upload proof if any)\n   - Remarks\n4. Click 'Save' to record the malpractice case.\n\n(Navigation: Menu → Examinations → View More → On-Examination → Malpractice Booking)"
+      },
+  
+      "upload_evidence": {
+        "response": "To upload evidence for a malpractice case:\n\n1. While booking a malpractice case, use the 'Attachment' option.\n2. Upload scanned images, documents, or other proof files.\n3. Only one file can be uploaded per case.\n\n(Navigation: Menu → Examinations → View More → On-Examination → Malpractice Booking)"
+      },
+  
+      "categorize_offense": {
+        "response": "To categorize the offense:\n\n1. During malpractice booking, select the appropriate Unfair Category from the dropdown.\n2. Categories are institution-defined and required for every entry.\n3. Helps in appropriate action or escalation based on severity.\n\n(Navigation: Menu → Examinations → View More → On-Examination → Malpractice Booking)"
+      }
+    },
+    
+    "answer_paper_labeling": {
+      "response": "The Answer Paper Labeling module is used to generate and download labels that are stuck on answer paper bundles for identification and sorting purposes.\n\n* Labels are generated post-exam.\n* Count-based input ensures accuracy in bundling.",
+  
+      "generate_answer_paper_label": {
+        "response": "To generate answer paper labels:\n\n1. Navigate to Menu → Examinations → View More → On-Examination → Answer Paper Label.\n2. The screen will list courses with:\n   - Exam Date\n   - Session\n   - Student Count\n   - Attendance Status\n3. Click the 'Download' button for a course.\n4. Enter the 'Answer Count' in the pop-up dialog.\n5. Click 'Download' to get the PDF label file.\n\n(Navigation: Menu → Examinations → View More → On-Examination → Answer Paper Label)"
+      },
+  
+      "print_label_for_bundles": {
+        "response": "To print answer paper labels:\n\n1. After generating the PDF label from the Answer Paper Label screen,\n2. Open the downloaded file.\n3. Print the file and affix the label on the respective answer bundle covers.\n\n(Navigation: Menu → Examinations → View More → On-Examination → Answer Paper Label)"
+      }
+    },
+    
+     "dummy_number_generation": {
+      "response": "The Dummy Number Generation module is used to anonymize student answer scripts post-exam by assigning dummy numbers. This ensures unbiased evaluation.\n\n* Dummy numbers are generated after attendance is marked.\n* Labels for manuscript envelopes can also be downloaded.",
+  
+      "generate_dummy_numbers": {
+        "response": "To generate dummy numbers:\n\n1. Navigate to Menu → Examinations → View More → Post-Examination → Dummy Number.\n2. The screen will list all courses with:\n   - Exam Date\n   - Course Code & Title\n   - Attendance Marked Status\n3. Click 'Generate' under Actions for eligible courses.\n4. A PDF file with Register Numbers and corresponding Dummy Numbers will be generated.\n\nNote: Dummy numbers cannot be generated if attendance has not been marked.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Dummy Number)"
+      },
+  
+      "download_dummy_number_labels": {
+        "response": "To download dummy number labels for answer bundles:\n\n1. After dummy numbers are generated, click 'Label Sheet' under Actions.\n2. In the popup, enter:\n   - Student Count (auto-filled)\n   - Number of Sheets per Bundle\n3. Click 'Print' to download the PDF label sheet.\n4. Use the printed labels on the manuscript envelopes.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Dummy Number)"
+      }
+    },
+    
+    "manuscript_evaluation": {
+      "response": "The Manuscript Evaluation module is used to assign student answer scripts to evaluators, track the assignment, and download reports on both manuscript distribution and mark entry.\n\n* Evaluators are assigned based on dummy number ranges.\n* Reports for evaluator activity and marks can be downloaded.",
+  
+      "assign_manuscripts_to_evaluators": {
+        "response": "To assign manuscripts to evaluators:\n\n1. Navigate to Menu → Examinations → View More → Post-Examination → Evaluation → Assign Manuscripts.\n2. The course list will show Submitted, Allocated, and Unallocated scripts.\n3. Click 'Assign' for a course.\n4. In the popup, enter:\n   - Evaluator (dropdown)\n   - Dummy Number Range\n   - Date\n   - Session\n5. Click 'Save'. Assigned scripts will be available in the evaluator’s login.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Evaluation → Assign Manuscripts)"
+      },
+  
+      "view_evaluator_report": {
+        "response": "To view evaluator-wise manuscript report:\n\n1. Navigate to Menu → Examinations → View More → Post-Examination → Evaluation → Evaluator Report.\n2. The list displays:\n   - Course Code & Title\n   - Number of Manuscripts Assigned\n3. Click 'Download' to get the report with assigned dummy numbers.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Evaluation → Evaluator Report)"
+      },
+  
+      "view_mark_entry_report": {
+        "response": "To download the mark entry report:\n\n1. Navigate to Menu → Examinations → View More → Post-Examination → Evaluation → Mark Entry Report.\n2. The table shows:\n   - Evaluator\n   - Date\n   - Course Code & Title\n   - Assigned Script Count\n3. Click 'Download' under Actions to get the PDF of entered marks per student.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Evaluation → Mark Entry Report)"
+      }
+    },
+    
+     "result_processing": {
+      "response": "This module is used to finalize student performance outcomes by normalizing and moderating marks, converting totals, and publishing results for each examination.\n\n* Ensures uniform mark handling across evaluators.\n* Final step before result declaration",
+  
+      "normalize_marks": {
+        "response": "To normalize marks:\n\n1. Navigate to Menu → Examinations → View More → Post-Examination → Result Processing.\n2. Select the relevant exam.\n3. Under the 'Normalize' column, click 'Proceed'.\n4. System will auto-calculate normalized marks if enabled.\n5. Review and click 'Save' to finalize.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Normalization)"
+      },
+  
+      "moderate_marks": {
+        "response": "To apply moderation:\n\n1. Navigate to Menu → Examinations → View More → Post-Examination → Result Processing.\n2. Under the 'Moderation' column, click 'Moderate'.\n3. Enter moderation rules:\n   - Minimum/Maximum Marks\n   - Adjustment Type (absolute/percentage)\n4. Click 'Apply' and then 'Save'.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Moderation)"
+      },
+  
+      "convert_and_finalize_marks": {
+        "response": "To convert and finalize marks:\n\n1. After normalization and moderation, click 'Convert Marks' from the same screen.\n2. The system will process:\n   - Total Marks\n   - Grade Conversion\n   - CGPA Calculation\n3. Once processed, marks are ready for publication.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Mark Conversion)"
+      },
+  
+      "publish_results": {
+        "response": "To publish the final results:\n\n1. Navigate to Menu → Examinations → View More → Post-Examination → Result Processing.\n2. Click 'Publish Result' for the selected exam.\n3. Confirm the action when prompted.\n4. Students will now be able to view their results in the student portal.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Publish Result)"
+      }
+    },
+    
+    "marksheet_generation": {
+      "response": "The Marksheet Generation module is used to generate and download grade sheets for individual students or in bulk for an entire batch. These sheets include final results, grades, and programme details.\n\n* PDF generation supported for both single and batch-wise outputs.\n* Sheets contain marks, grades, and final CGPA.",
+  
+      "generate_grade_sheets": {
+        "response": "To generate individual grade sheets:\n\n1. Navigate to Menu → Examinations → View More → Post-Examination → Grade Sheet.\n2. Select:\n   - Batch\n   - Regulation\n   - Semester\n   - Programme\n3. Click 'Get Students'.\n4. Click the 'Download' icon next to the desired student.\n5. The PDF will contain that student’s complete marksheet.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Grade Sheet)"
+      },
+  
+      "download_batch_wise_grade_sheets": {
+        "response": "To download grade sheets for an entire batch:\n\n1. Navigate to Menu → Examinations → View More → Post-Examination → Grade Sheet.\n2. Select:\n   - Batch\n   - Regulation\n   - Semester\n   - Programme\n3. Click 'Get Students'.\n4. Use the 'Download All' button to get a ZIP file with grade sheets of all students in the batch.\n\n(Navigation: Menu → Examinations → View More → Post-Examination → Grade Sheet)"
+      }
+    }
+  }
+  
+  

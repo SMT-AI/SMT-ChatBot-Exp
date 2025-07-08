@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/1b23dcbbad6a4767a5afc70049601925/artifacts
+end_time: 1739523742503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b23dcbbad6a4767a5afc70049601925
+run_name: chill-toad-314
+run_uuid: 1b23dcbbad6a4767a5afc70049601925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739523652499
+status: 3
+tags: []
+user_id: sunildj

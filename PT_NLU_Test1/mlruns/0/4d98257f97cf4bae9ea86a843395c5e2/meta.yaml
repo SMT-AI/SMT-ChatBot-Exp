@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/4d98257f97cf4bae9ea86a843395c5e2/artifacts
+end_time: 1744893588161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d98257f97cf4bae9ea86a843395c5e2
+run_name: debonair-bear-780
+run_uuid: 4d98257f97cf4bae9ea86a843395c5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744888776422
+status: 3
+tags: []
+user_id: sunildj

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sunildj/SMT-ChatBot-Exp/PT_NLU_Test1/mlruns/0/bee18f1382d7449b9d0a91c6889e262b/artifacts
+end_time: 1739520611604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bee18f1382d7449b9d0a91c6889e262b
+run_name: suave-kite-502
+run_uuid: bee18f1382d7449b9d0a91c6889e262b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739520592444
+status: 3
+tags: []
+user_id: sunildj

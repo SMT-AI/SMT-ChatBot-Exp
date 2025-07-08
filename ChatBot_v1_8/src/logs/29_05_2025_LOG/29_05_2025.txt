@@ -1,0 +1,50 @@
+2025-05-29 20:55:06 - INFO - Starting the application with enhanced logging
+2025-05-29 20:55:06 - INFO - Application startup initiated
+2025-05-29 20:55:06 - INFO - Application startup initiated
+2025-05-29 20:55:06 - INFO - Starting SMT ChatBot v1
+2025-05-29 20:55:06 - INFO - Successfully connected to S3 endpoint: https://objectstore.e2enetworks.net
+2025-05-29 20:55:07 - INFO - Successfully connected to bucket: chatbotv1
+2025-05-29 20:55:07 - ERROR - Error during initialization: NVIDIA_API_KEY environment variable not set and no api_key provided
+2025-05-29 20:55:07 - ERROR - CRITICAL: System initialization failed: NVIDIA_API_KEY environment variable not set and no api_key provided
+2025-05-29 20:55:07 - ERROR - CRITICAL: System initialization failed: NVIDIA_API_KEY environment variable not set and no api_key provided
+2025-05-29 20:55:59 - INFO - Starting the application with enhanced logging
+2025-05-29 20:55:59 - INFO - Application startup initiated
+2025-05-29 20:55:59 - INFO - Application startup initiated
+2025-05-29 20:55:59 - INFO - Starting SMT ChatBot v1
+2025-05-29 20:55:59 - INFO - Successfully connected to S3 endpoint: https://objectstore.e2enetworks.net
+2025-05-29 20:56:00 - INFO - Successfully connected to bucket: chatbotv1
+2025-05-29 20:56:00 - INFO - Successfully connected to NVIDIA NIM API using LangChain
+2025-05-29 20:56:00 - INFO - LLM Gateway initialized with model meta/llama-3.2-3b-instruct and history limit 25
+2025-05-29 20:56:00 - INFO - LLM Gateway initialized successfully with LangChain integration
+2025-05-29 20:56:00 - INFO - Chat system initialized and ready to process requests
+2025-05-29 20:56:00 - INFO - Chat system initialized and ready to process requests
+2025-05-29 21:51:48 - INFO - Shutting down application
+2025-05-29 21:51:48 - INFO - Chat system shutting down
+2025-05-29 21:51:48 - INFO - Chat system shutting down
+2025-05-29 21:51:48 - INFO - Cleaned up temporary directory: /tmp/chatbot_k9x71aug
+2025-05-29 21:51:52 - INFO - Starting the application with enhanced logging
+2025-05-29 21:51:52 - INFO - Application startup initiated
+2025-05-29 21:51:52 - INFO - Application startup initiated
+2025-05-29 21:51:52 - INFO - Starting SMT ChatBot v1
+2025-05-29 21:51:52 - INFO - Successfully connected to S3 endpoint: https://objectstore.e2enetworks.net
+2025-05-29 21:51:53 - INFO - Successfully connected to bucket: chatbotv1
+2025-05-29 21:51:53 - INFO - Successfully connected to NVIDIA NIM API using LangChain
+2025-05-29 21:51:53 - INFO - LLM Gateway initialized with model meta/llama-3.2-3b-instruct and history limit 25
+2025-05-29 21:51:53 - INFO - LLM Gateway initialized successfully with LangChain integration
+2025-05-29 21:51:53 - INFO - Chat system initialized and ready to process requests
+2025-05-29 21:51:53 - INFO - Chat system initialized and ready to process requests
+2025-05-29 21:55:57 - INFO - Shutting down application
+2025-05-29 21:55:57 - INFO - Chat system shutting down
+2025-05-29 21:55:57 - INFO - Chat system shutting down
+2025-05-29 21:55:57 - INFO - Cleaned up temporary directory: /tmp/chatbot__0vih971
+2025-05-29 21:56:00 - INFO - Starting the application with enhanced logging
+2025-05-29 21:56:00 - INFO - Application startup initiated
+2025-05-29 21:56:00 - INFO - Application startup initiated
+2025-05-29 21:56:00 - INFO - Starting SMT ChatBot v1
+2025-05-29 21:56:00 - INFO - Successfully connected to S3 endpoint: https://objectstore.e2enetworks.net
+2025-05-29 21:56:01 - INFO - Successfully connected to bucket: chatbotv1
+2025-05-29 21:56:01 - INFO - Successfully connected to NVIDIA NIM API using LangChain
+2025-05-29 21:56:01 - INFO - LLM Gateway initialized with model meta/llama-3.2-3b-instruct and history limit 10
+2025-05-29 21:56:01 - INFO - LLM Gateway initialized successfully with LangChain integration
+2025-05-29 21:56:01 - INFO - Chat system initialized and ready to process requests
+2025-05-29 21:56:01 - INFO - Chat system initialized and ready to process requests

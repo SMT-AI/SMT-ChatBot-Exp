@@ -1,0 +1,393 @@
+2025-05-09 17:13:07 - INFO - Starting the application with enhanced logging
+2025-05-09 17:13:07 - INFO - Application startup initiated
+2025-05-09 17:13:07 - INFO - Application startup initiated
+2025-05-09 17:13:07 - INFO - Starting SMT ChatBot v1
+2025-05-09 17:13:07 - INFO - Successfully connected to S3 endpoint: https://objectstore.e2enetworks.net
+2025-05-09 17:13:07 - INFO - Successfully connected to bucket: chatbotv1
+2025-05-09 17:13:08 - INFO - Successfully connected to NVIDIA NIM API using LangChain
+2025-05-09 17:13:08 - INFO - LLM Gateway initialized with model meta/llama-3.2-3b-instruct and history limit 25
+2025-05-09 17:13:08 - INFO - LLM Gateway initialized successfully with LangChain integration
+2025-05-09 17:13:08 - INFO - Chat system initialized and ready to process requests
+2025-05-09 17:13:08 - INFO - Chat system initialized and ready to process requests
+2025-05-09 17:13:20 - INFO - Chat request [request_id=req_1746791000581_58a0688a] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:13:20 - INFO - Received query [request_id=req_1746791000581_58a0688a]: 'Hi'
+2025-05-09 17:13:20 - INFO - Received query [request_id=req_1746791000581_58a0688a]: 'Hi'
+2025-05-09 17:13:20 - INFO - Attempting to download from S3 path: org/00003/00003_model.pt
+2025-05-09 17:13:20 - INFO - Downloading model for organization 00003 from S3
+2025-05-09 17:13:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:24 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:24 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:26 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:26 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:26 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:26 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:26 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:27 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:27 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:27 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:27 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:27 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:27 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:28 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:28 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:28 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:28 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:29 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:29 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:29 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:29 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:13:32 - INFO - Successfully downloaded model for 00003 to /tmp/chatbot_i7wjgywt/00003_model.pt
+2025-05-09 17:13:32 - INFO - Attempting to download from S3 path: org/00003/00003_corpus.json
+2025-05-09 17:13:32 - INFO - Downloading corpus for organization 00003 from S3
+2025-05-09 17:13:32 - INFO - Successfully downloaded corpus for 00003 to /tmp/chatbot_i7wjgywt/00003_corpus.json
+2025-05-09 17:13:32 - INFO - Loading model for organization 00003
+2025-05-09 17:13:32 - INFO - Using device: cpu
+2025-05-09 17:13:43 - INFO - Model successfully loaded from /tmp/chatbot_i7wjgywt/00003_model.pt
+2025-05-09 17:13:43 - INFO - Loading corpus for organization 00003
+2025-05-09 17:13:43 - INFO - Successfully loaded corpus from /tmp/chatbot_i7wjgywt/00003_corpus.json
+2025-05-09 17:13:43 - INFO - Classification [request_id=req_1746791000581_58a0688a] - Status: llm_fallback, Time: 65.38ms
+2025-05-09 17:13:58 - ERROR - Error generating response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:13:58 - INFO - LLM response [request_id=req_1746791000581_58a0688a] - Status: error, Time: 15321.87ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:13:58 - ERROR - LLM error [request_id=req_1746791000581_58a0688a]: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:13:58 - ERROR - LLM failed [request_id=req_1746791000581_58a0688a]: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:13:58 - ERROR - LLM failed [request_id=req_1746791000581_58a0688a]: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:13:58 - ERROR - HTTP error in chat [request_id=req_1746791000581_58a0688a, status=500]: LLM error: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (processing time: 38375.80ms)
+2025-05-09 17:13:58 - ERROR - HTTP error in chat [request_id=req_1746791000581_58a0688a, status=500]: LLM error: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (processing time: 38375.80ms)
+2025-05-09 17:13:58 - WARNING - HTTP exception [request_id=req_1746791000581_58a0688a, status=500]: LLM error: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:14:15 - INFO - Chat request [request_id=req_1746791055394_803590a8] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:14:15 - INFO - Received query [request_id=req_1746791055394_803590a8]: 'hey'
+2025-05-09 17:14:15 - INFO - Received query [request_id=req_1746791055394_803590a8]: 'hey'
+2025-05-09 17:14:15 - INFO - Classification [request_id=req_1746791055394_803590a8] - Status: llm_fallback, Time: 70.49ms
+2025-05-09 17:14:16 - INFO - LLM response [request_id=req_1746791055394_803590a8] - Status: success, Time: 685.05ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:14:16 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:14:16.151301", "request_id": "req_1746791055394_803590a8", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "hey", "response": "Hello Sunil. How can I assist you today with your ERP queries?", "response_source": "llm", "processing_time_ms": 756.2758922576904, "confidence": {"main": 0.28748619556427, "sub": 0.0}}
+2025-05-09 17:14:16 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:14:16.151301", "request_id": "req_1746791055394_803590a8", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "hey", "response": "Hello Sunil. How can I assist you today with your ERP queries?", "response_source": "llm", "processing_time_ms": 756.2758922576904, "confidence": {"main": 0.28748619556427, "sub": 0.0}}
+2025-05-09 17:14:26 - INFO - Chat request [request_id=req_1746791066994_4adc4da8] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:14:26 - INFO - Received query [request_id=req_1746791066994_4adc4da8]: 'How to check my timetable?'
+2025-05-09 17:14:26 - INFO - Received query [request_id=req_1746791066994_4adc4da8]: 'How to check my timetable?'
+2025-05-09 17:14:27 - INFO - Classification [request_id=req_1746791066994_4adc4da8] - Status: success, Time: 116.04ms
+2025-05-09 17:14:27 - INFO - Corpus response [request_id=req_1746791066994_4adc4da8] - Status: success, Time: 0.01ms, Intent: class_timetable/timetable_check
+2025-05-09 17:14:27 - INFO - Added corpus response to session [request_id=req_1746791066994_4adc4da8, session_id=Sunil]
+2025-05-09 17:14:27 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:14:27.112516", "request_id": "req_1746791066994_4adc4da8", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "How to check my timetable?", "response": "Hello! You can access your class timetable for [Course/Program] at [Institution Name] by visiting [Timetable Portal Link]. How can I assist you with your timetable?\n\nTo check your class timetable, log in to [Timetable Portal Link] and enter your student credentials. Would you like me to guide you through the process?", "response_source": "corpus", "processing_time_ms": 116.90020561218262, "main_intent": "class_timetable", "sub_intent": "timetable_check", "confidence": {"main": 0.9464567303657532, "sub": 0.36414939165115356}}
+2025-05-09 17:14:27 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:14:27.112516", "request_id": "req_1746791066994_4adc4da8", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "How to check my timetable?", "response": "Hello! You can access your class timetable for [Course/Program] at [Institution Name] by visiting [Timetable Portal Link]. How can I assist you with your timetable?\n\nTo check your class timetable, log in to [Timetable Portal Link] and enter your student credentials. Would you like me to guide you through the process?", "response_source": "corpus", "processing_time_ms": 116.90020561218262, "main_intent": "class_timetable", "sub_intent": "timetable_check", "confidence": {"main": 0.9464567303657532, "sub": 0.36414939165115356}}
+2025-05-09 17:14:38 - INFO - Chat request [request_id=req_1746791078927_93eaf9d1] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:14:38 - INFO - Received query [request_id=req_1746791078927_93eaf9d1]: 'what was my last query?'
+2025-05-09 17:14:38 - INFO - Received query [request_id=req_1746791078927_93eaf9d1]: 'what was my last query?'
+2025-05-09 17:14:39 - INFO - Classification [request_id=req_1746791078927_93eaf9d1] - Status: llm_fallback, Time: 79.05ms
+2025-05-09 17:14:39 - INFO - LLM response [request_id=req_1746791078927_93eaf9d1] - Status: success, Time: 817.25ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:14:39 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:14:39.824978", "request_id": "req_1746791078927_93eaf9d1", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "what was my last query?", "response": "Your last query, Sunil, was asking me to tell you about the \"class_timetable/timetable_check\" in the ERP system.", "response_source": "llm", "processing_time_ms": 897.1095085144043, "confidence": {"main": 0.4876977503299713, "sub": 0.0}}
+2025-05-09 17:14:39 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:14:39.824978", "request_id": "req_1746791078927_93eaf9d1", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "what was my last query?", "response": "Your last query, Sunil, was asking me to tell you about the \"class_timetable/timetable_check\" in the ERP system.", "response_source": "llm", "processing_time_ms": 897.1095085144043, "confidence": {"main": 0.4876977503299713, "sub": 0.0}}
+2025-05-09 17:15:23 - INFO - Chat request [request_id=req_1746791123368_df706415] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:15:23 - INFO - Received query [request_id=req_1746791123368_df706415]: 'What was my previous query?'
+2025-05-09 17:15:23 - INFO - Received query [request_id=req_1746791123368_df706415]: 'What was my previous query?'
+2025-05-09 17:15:23 - INFO - Classification [request_id=req_1746791123368_df706415] - Status: llm_fallback, Time: 63.24ms
+2025-05-09 17:15:24 - INFO - LLM response [request_id=req_1746791123368_df706415] - Status: success, Time: 826.78ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:15:24 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:15:24.259998", "request_id": "req_1746791123368_df706415", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "What was my previous query?", "response": "Your previous query, Sunil, was asking me to tell you about the \"class_timetable/timetable_check\" in the ERP system.", "response_source": "llm", "processing_time_ms": 890.8374309539795, "confidence": {"main": 0.574053943157196, "sub": 0.0}}
+2025-05-09 17:15:24 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:15:24.259998", "request_id": "req_1746791123368_df706415", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "What was my previous query?", "response": "Your previous query, Sunil, was asking me to tell you about the \"class_timetable/timetable_check\" in the ERP system.", "response_source": "llm", "processing_time_ms": 890.8374309539795, "confidence": {"main": 0.574053943157196, "sub": 0.0}}
+2025-05-09 17:19:36 - INFO - Chat request [request_id=req_1746791376524_5743d8f2] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:19:36 - INFO - Received query [request_id=req_1746791376524_5743d8f2]: 'What was my previous question?'
+2025-05-09 17:19:36 - INFO - Received query [request_id=req_1746791376524_5743d8f2]: 'What was my previous question?'
+2025-05-09 17:19:36 - INFO - Classification [request_id=req_1746791376524_5743d8f2] - Status: llm_fallback, Time: 72.00ms
+2025-05-09 17:19:36 - INFO - Cleaned up 1 expired sessions
+2025-05-09 17:19:37 - INFO - LLM response [request_id=req_1746791376524_5743d8f2] - Status: success, Time: 856.26ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:19:37 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:19:37.454441", "request_id": "req_1746791376524_5743d8f2", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "What was my previous question?", "response": "Sunil, you didn't ask a previous question. This is the start of our conversation. What can I assist you with today?", "response_source": "llm", "processing_time_ms": 929.0833473205566, "confidence": {"main": 0.22305788099765778, "sub": 0.0}}
+2025-05-09 17:19:37 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:19:37.454441", "request_id": "req_1746791376524_5743d8f2", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "What was my previous question?", "response": "Sunil, you didn't ask a previous question. This is the start of our conversation. What can I assist you with today?", "response_source": "llm", "processing_time_ms": 929.0833473205566, "confidence": {"main": 0.22305788099765778, "sub": 0.0}}
+2025-05-09 17:20:17 - INFO - Chat request [request_id=req_1746791417431_0126a5b0] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:20:17 - INFO - Received query [request_id=req_1746791417431_0126a5b0]: 'How to check my admission status?'
+2025-05-09 17:20:17 - INFO - Received query [request_id=req_1746791417431_0126a5b0]: 'How to check my admission status?'
+2025-05-09 17:20:17 - INFO - Classification [request_id=req_1746791417431_0126a5b0] - Status: success, Time: 115.09ms
+2025-05-09 17:20:17 - INFO - Corpus response [request_id=req_1746791417431_0126a5b0] - Status: success, Time: 0.00ms, Intent: admission_process/admission_status
+2025-05-09 17:20:17 - INFO - Added corpus response to session [request_id=req_1746791417431_0126a5b0, session_id=Sunil]
+2025-05-09 17:20:17 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:20:17.548417", "request_id": "req_1746791417431_0126a5b0", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "How to check my admission status?", "response": "Hello! The admission process at [Institution Name] involves several steps, including application submission, document verification, fee payment, and confirmation. How can I assist you with the admission process?\n\nYou can check your admission status by visiting [Admission Portal Link] and entering your application number. Would you like me to guide you through the process?", "response_source": "corpus", "processing_time_ms": 115.7846450805664, "main_intent": "admission_process", "sub_intent": "admission_status", "confidence": {"main": 0.8534561991691589, "sub": 0.7140184044837952}}
+2025-05-09 17:20:17 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:20:17.548417", "request_id": "req_1746791417431_0126a5b0", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "How to check my admission status?", "response": "Hello! The admission process at [Institution Name] involves several steps, including application submission, document verification, fee payment, and confirmation. How can I assist you with the admission process?\n\nYou can check your admission status by visiting [Admission Portal Link] and entering your application number. Would you like me to guide you through the process?", "response_source": "corpus", "processing_time_ms": 115.7846450805664, "main_intent": "admission_process", "sub_intent": "admission_status", "confidence": {"main": 0.8534561991691589, "sub": 0.7140184044837952}}
+2025-05-09 17:20:30 - INFO - Chat request [request_id=req_1746791430962_c8cb1259] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:20:30 - INFO - Received query [request_id=req_1746791430962_c8cb1259]: 'What was my previous query?'
+2025-05-09 17:20:30 - INFO - Received query [request_id=req_1746791430962_c8cb1259]: 'What was my previous query?'
+2025-05-09 17:20:31 - INFO - Classification [request_id=req_1746791430962_c8cb1259] - Status: llm_fallback, Time: 62.34ms
+2025-05-09 17:20:31 - INFO - LLM response [request_id=req_1746791430962_c8cb1259] - Status: success, Time: 704.18ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:20:31 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:20:31.730058", "request_id": "req_1746791430962_c8cb1259", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "What was my previous query?", "response": "Sunil, your previous query was about the admission_process/admission_status in the ERP system.", "response_source": "llm", "processing_time_ms": 767.2221660614014, "confidence": {"main": 0.574053943157196, "sub": 0.0}}
+2025-05-09 17:20:31 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:20:31.730058", "request_id": "req_1746791430962_c8cb1259", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "What was my previous query?", "response": "Sunil, your previous query was about the admission_process/admission_status in the ERP system.", "response_source": "llm", "processing_time_ms": 767.2221660614014, "confidence": {"main": 0.574053943157196, "sub": 0.0}}
+2025-05-09 17:21:36 - INFO - Chat request [request_id=req_1746791496075_9b2b115e] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:21:36 - INFO - Received query [request_id=req_1746791496075_9b2b115e]: 'How to check my leave'
+2025-05-09 17:21:36 - INFO - Received query [request_id=req_1746791496075_9b2b115e]: 'How to check my leave'
+2025-05-09 17:21:36 - INFO - Classification [request_id=req_1746791496075_9b2b115e] - Status: success, Time: 134.60ms
+2025-05-09 17:21:36 - INFO - Corpus response [request_id=req_1746791496075_9b2b115e] - Status: success, Time: 0.00ms, Intent: apply_leave/leave_status
+2025-05-09 17:21:36 - INFO - Added corpus response to session [request_id=req_1746791496075_9b2b115e, session_id=Sunil]
+2025-05-09 17:21:36 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:21:36.211183", "request_id": "req_1746791496075_9b2b115e", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "How to check my leave", "response": "Hello! If you need to apply for leave, follow these steps:\n1. Submit a leave request at [Leave Application Portal Link].\n2. Provide the required details, including reason and duration.\n3. Attach any supporting documents if necessary.\nWould you like assistance with submitting your leave request?\n\nYou can check the status of your leave application by logging into [Leave Status Portal Link]. Enter your application ID to track the approval process. Would you like help with checking your leave status?", "response_source": "corpus", "processing_time_ms": 135.30588150024414, "main_intent": "apply_leave", "sub_intent": "leave_status", "confidence": {"main": 0.8667119741439819, "sub": 0.7620301842689514}}
+2025-05-09 17:21:36 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:21:36.211183", "request_id": "req_1746791496075_9b2b115e", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "How to check my leave", "response": "Hello! If you need to apply for leave, follow these steps:\n1. Submit a leave request at [Leave Application Portal Link].\n2. Provide the required details, including reason and duration.\n3. Attach any supporting documents if necessary.\nWould you like assistance with submitting your leave request?\n\nYou can check the status of your leave application by logging into [Leave Status Portal Link]. Enter your application ID to track the approval process. Would you like help with checking your leave status?", "response_source": "corpus", "processing_time_ms": 135.30588150024414, "main_intent": "apply_leave", "sub_intent": "leave_status", "confidence": {"main": 0.8667119741439819, "sub": 0.7620301842689514}}
+2025-05-09 17:23:33 - INFO - Shutting down application
+2025-05-09 17:23:33 - INFO - Chat system shutting down
+2025-05-09 17:23:33 - INFO - Chat system shutting down
+2025-05-09 17:23:33 - INFO - Cleaned up temporary directory: /tmp/chatbot_i7wjgywt
+2025-05-09 17:23:41 - INFO - Starting the application with enhanced logging
+2025-05-09 17:23:41 - INFO - Application startup initiated
+2025-05-09 17:23:41 - INFO - Application startup initiated
+2025-05-09 17:23:41 - INFO - Starting SMT ChatBot v1
+2025-05-09 17:23:41 - INFO - Successfully connected to S3 endpoint: https://objectstore.e2enetworks.net
+2025-05-09 17:23:41 - INFO - Successfully connected to bucket: chatbotv1
+2025-05-09 17:23:42 - INFO - Successfully connected to NVIDIA NIM API using LangChain
+2025-05-09 17:23:42 - INFO - LLM Gateway initialized with model meta/llama-3.2-3b-instruct and history limit 25
+2025-05-09 17:23:42 - INFO - LLM Gateway initialized successfully with LangChain integration
+2025-05-09 17:23:42 - INFO - Chat system initialized and ready to process requests
+2025-05-09 17:23:42 - INFO - Chat system initialized and ready to process requests
+2025-05-09 17:24:18 - INFO - Chat request [request_id=req_1746791658571_f371f4c2] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:24:18 - INFO - Received query [request_id=req_1746791658571_f371f4c2]: 'Hey'
+2025-05-09 17:24:18 - INFO - Received query [request_id=req_1746791658571_f371f4c2]: 'Hey'
+2025-05-09 17:24:18 - INFO - Attempting to download from S3 path: org/00003/00003_model.pt
+2025-05-09 17:24:18 - INFO - Downloading model for organization 00003 from S3
+2025-05-09 17:24:18 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:19 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:19 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:19 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:19 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:19 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:19 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:19 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:19 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:19 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:20 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:21 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:22 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:23 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:24 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:24 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:24 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:24 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:24 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:24 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:24 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:25 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:24:27 - INFO - Successfully downloaded model for 00003 to /tmp/chatbot_mcbvmtph/00003_model.pt
+2025-05-09 17:24:27 - INFO - Attempting to download from S3 path: org/00003/00003_corpus.json
+2025-05-09 17:24:27 - INFO - Downloading corpus for organization 00003 from S3
+2025-05-09 17:24:28 - INFO - Successfully downloaded corpus for 00003 to /tmp/chatbot_mcbvmtph/00003_corpus.json
+2025-05-09 17:24:28 - INFO - Loading model for organization 00003
+2025-05-09 17:24:28 - INFO - Using device: cpu
+2025-05-09 17:24:30 - INFO - Model successfully loaded from /tmp/chatbot_mcbvmtph/00003_model.pt
+2025-05-09 17:24:30 - INFO - Loading corpus for organization 00003
+2025-05-09 17:24:30 - INFO - Successfully loaded corpus from /tmp/chatbot_mcbvmtph/00003_corpus.json
+2025-05-09 17:24:30 - INFO - Classification [request_id=req_1746791658571_f371f4c2] - Status: llm_fallback, Time: 62.94ms
+2025-05-09 17:24:32 - INFO - LLM response [request_id=req_1746791658571_f371f4c2] - Status: success, Time: 2341.55ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:24:32 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:24:32.456690", "request_id": "req_1746791658571_f371f4c2", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "Hey", "response": "Hello Sunil. How can I assist you today? Are you looking for help with our ERP system or have a specific question?", "response_source": "llm", "processing_time_ms": 13882.664442062378, "confidence": {"main": 0.28748619556427, "sub": 0.0}}
+2025-05-09 17:24:32 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:24:32.456690", "request_id": "req_1746791658571_f371f4c2", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "Hey", "response": "Hello Sunil. How can I assist you today? Are you looking for help with our ERP system or have a specific question?", "response_source": "llm", "processing_time_ms": 13882.664442062378, "confidence": {"main": 0.28748619556427, "sub": 0.0}}
+2025-05-09 17:25:31 - INFO - Chat request [request_id=req_1746791731934_3d10ef8f] - Org: 00003, Session: Lukas P, User: demo-user
+2025-05-09 17:25:31 - INFO - Received query [request_id=req_1746791731934_3d10ef8f]: 'Hey'
+2025-05-09 17:25:31 - INFO - Received query [request_id=req_1746791731934_3d10ef8f]: 'Hey'
+2025-05-09 17:25:31 - INFO - Classification [request_id=req_1746791731934_3d10ef8f] - Status: llm_fallback, Time: 60.57ms
+2025-05-09 17:25:32 - INFO - LLM response [request_id=req_1746791731934_3d10ef8f] - Status: success, Time: 874.32ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:25:32 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:25:32.871271", "request_id": "req_1746791731934_3d10ef8f", "organization_id": "00003", "session_id": "Lukas P", "user_id": "demo-user", "query": "Hey", "response": "Hello Lukas P. How can I assist you today? Are you looking for help with our ERP system or do you have a specific question?", "response_source": "llm", "processing_time_ms": 935.633659362793, "confidence": {"main": 0.28748619556427, "sub": 0.0}}
+2025-05-09 17:25:32 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:25:32.871271", "request_id": "req_1746791731934_3d10ef8f", "organization_id": "00003", "session_id": "Lukas P", "user_id": "demo-user", "query": "Hey", "response": "Hello Lukas P. How can I assist you today? Are you looking for help with our ERP system or do you have a specific question?", "response_source": "llm", "processing_time_ms": 935.633659362793, "confidence": {"main": 0.28748619556427, "sub": 0.0}}
+2025-05-09 17:25:51 - INFO - Chat request [request_id=req_1746791751815_c78019df] - Org: 00003, Session: Lukas P, User: demo-user
+2025-05-09 17:25:51 - INFO - Received query [request_id=req_1746791751815_c78019df]: 'How to make coffee'
+2025-05-09 17:25:51 - INFO - Received query [request_id=req_1746791751815_c78019df]: 'How to make coffee'
+2025-05-09 17:25:51 - INFO - Classification [request_id=req_1746791751815_c78019df] - Status: llm_fallback, Time: 61.04ms
+2025-05-09 17:25:53 - INFO - LLM response [request_id=req_1746791751815_c78019df] - Status: success, Time: 1160.49ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:25:53 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:25:53.038353", "request_id": "req_1746791751815_c78019df", "organization_id": "00003", "session_id": "Lukas P", "user_id": "demo-user", "query": "How to make coffee", "response": "A bit off-topic, Lukas P., but I can help with that. To make coffee, you can use our ERP system to track inventory and recipes. For brewing, you can use a coffee machine, pour-over, or French press. Would you like a detailed recipe or help with inventory management instead?", "response_source": "llm", "processing_time_ms": 1222.296953201294, "confidence": {"main": 0.11963222920894623, "sub": 0.0}}
+2025-05-09 17:25:53 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:25:53.038353", "request_id": "req_1746791751815_c78019df", "organization_id": "00003", "session_id": "Lukas P", "user_id": "demo-user", "query": "How to make coffee", "response": "A bit off-topic, Lukas P., but I can help with that. To make coffee, you can use our ERP system to track inventory and recipes. For brewing, you can use a coffee machine, pour-over, or French press. Would you like a detailed recipe or help with inventory management instead?", "response_source": "llm", "processing_time_ms": 1222.296953201294, "confidence": {"main": 0.11963222920894623, "sub": 0.0}}
+2025-05-09 17:28:48 - INFO - Shutting down application
+2025-05-09 17:28:48 - INFO - Chat system shutting down
+2025-05-09 17:28:48 - INFO - Chat system shutting down
+2025-05-09 17:28:48 - INFO - Cleaned up temporary directory: /tmp/chatbot_mcbvmtph
+2025-05-09 17:28:52 - INFO - Starting the application with enhanced logging
+2025-05-09 17:28:52 - INFO - Application startup initiated
+2025-05-09 17:28:52 - INFO - Application startup initiated
+2025-05-09 17:28:52 - INFO - Starting SMT ChatBot v1
+2025-05-09 17:28:52 - INFO - Successfully connected to S3 endpoint: https://objectstore.e2enetworks.net
+2025-05-09 17:28:52 - INFO - Successfully connected to bucket: chatbotv1
+2025-05-09 17:28:53 - INFO - Successfully connected to NVIDIA NIM API using LangChain
+2025-05-09 17:28:53 - INFO - LLM Gateway initialized with model meta/llama-3.2-3b-instruct and history limit 25
+2025-05-09 17:28:53 - INFO - LLM Gateway initialized successfully with LangChain integration
+2025-05-09 17:28:53 - INFO - Chat system initialized and ready to process requests
+2025-05-09 17:28:53 - INFO - Chat system initialized and ready to process requests
+2025-05-09 17:29:09 - INFO - Chat request [request_id=req_1746791949902_bd94cf5b] - Org: 00003, Session: Marcus, User: demo-user
+2025-05-09 17:29:09 - INFO - Received query [request_id=req_1746791949902_bd94cf5b]: 'Hola!'
+2025-05-09 17:29:09 - INFO - Received query [request_id=req_1746791949902_bd94cf5b]: 'Hola!'
+2025-05-09 17:29:09 - INFO - Attempting to download from S3 path: org/00003/00003_model.pt
+2025-05-09 17:29:09 - INFO - Downloading model for organization 00003 from S3
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:10 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:11 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:11 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:11 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:11 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:11 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:12 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:12 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:12 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:12 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:12 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:12 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:12 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:12 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:13 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:13 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:13 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:13 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:13 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:13 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:13 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:13 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:14 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:14 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:14 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:14 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:14 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:14 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:14 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:14 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:15 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:15 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:15 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:15 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:15 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:15 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:16 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:16 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:16 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:16 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:16 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:16 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:16 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:17 - INFO - Skipping checksum validation. Response did not contain one of the following algorithms: ['crc32', 'sha1', 'sha256'].
+2025-05-09 17:29:18 - INFO - Successfully downloaded model for 00003 to /tmp/chatbot_9ezx_hnn/00003_model.pt
+2025-05-09 17:29:18 - INFO - Attempting to download from S3 path: org/00003/00003_corpus.json
+2025-05-09 17:29:18 - INFO - Downloading corpus for organization 00003 from S3
+2025-05-09 17:29:18 - INFO - Successfully downloaded corpus for 00003 to /tmp/chatbot_9ezx_hnn/00003_corpus.json
+2025-05-09 17:29:18 - INFO - Loading model for organization 00003
+2025-05-09 17:29:18 - INFO - Using device: cpu
+2025-05-09 17:29:20 - INFO - Model successfully loaded from /tmp/chatbot_9ezx_hnn/00003_model.pt
+2025-05-09 17:29:20 - INFO - Loading corpus for organization 00003
+2025-05-09 17:29:20 - INFO - Successfully loaded corpus from /tmp/chatbot_9ezx_hnn/00003_corpus.json
+2025-05-09 17:29:20 - INFO - Classification [request_id=req_1746791949902_bd94cf5b] - Status: llm_fallback, Time: 61.43ms
+2025-05-09 17:29:35 - ERROR - Error generating response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:29:35 - INFO - LLM response [request_id=req_1746791949902_bd94cf5b] - Status: error, Time: 15478.00ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:29:35 - ERROR - LLM error [request_id=req_1746791949902_bd94cf5b]: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:29:35 - ERROR - LLM failed [request_id=req_1746791949902_bd94cf5b]: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:29:35 - ERROR - LLM failed [request_id=req_1746791949902_bd94cf5b]: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:29:35 - ERROR - HTTP error in chat [request_id=req_1746791949902_bd94cf5b, status=500]: LLM error: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (processing time: 26020.45ms)
+2025-05-09 17:29:35 - ERROR - HTTP error in chat [request_id=req_1746791949902_bd94cf5b, status=500]: LLM error: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (processing time: 26020.45ms)
+2025-05-09 17:29:35 - WARNING - HTTP exception [request_id=req_1746791949902_bd94cf5b, status=500]: LLM error: Failed to get response: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-05-09 17:30:27 - INFO - Chat request [request_id=req_1746792027231_d040812a] - Org: 00003, Session: Marcus, User: demo-user
+2025-05-09 17:30:27 - INFO - Received query [request_id=req_1746792027231_d040812a]: 'Hey'
+2025-05-09 17:30:27 - INFO - Received query [request_id=req_1746792027231_d040812a]: 'Hey'
+2025-05-09 17:30:27 - INFO - Classification [request_id=req_1746792027231_d040812a] - Status: llm_fallback, Time: 70.99ms
+2025-05-09 17:30:27 - INFO - LLM response [request_id=req_1746792027231_d040812a] - Status: success, Time: 631.05ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:30:27 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:30:27.934797", "request_id": "req_1746792027231_d040812a", "organization_id": "00003", "session_id": "Marcus", "user_id": "demo-user", "query": "Hey", "response": "Hello Marcus. How can I assist you today?", "response_source": "llm", "processing_time_ms": 702.7370929718018, "confidence": {"main": 0.28748619556427, "sub": 0.0}}
+2025-05-09 17:30:27 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:30:27.934797", "request_id": "req_1746792027231_d040812a", "organization_id": "00003", "session_id": "Marcus", "user_id": "demo-user", "query": "Hey", "response": "Hello Marcus. How can I assist you today?", "response_source": "llm", "processing_time_ms": 702.7370929718018, "confidence": {"main": 0.28748619556427, "sub": 0.0}}
+2025-05-09 17:31:37 - INFO - Chat request [request_id=req_1746792097831_2c91c3b1] - Org: 00003, Session: Marcus, User: demo-user
+2025-05-09 17:31:37 - INFO - Received query [request_id=req_1746792097831_2c91c3b1]: 'How to make some coffee?'
+2025-05-09 17:31:37 - INFO - Received query [request_id=req_1746792097831_2c91c3b1]: 'How to make some coffee?'
+2025-05-09 17:31:37 - INFO - Classification [request_id=req_1746792097831_2c91c3b1] - Status: llm_fallback, Time: 60.96ms
+2025-05-09 17:31:39 - INFO - LLM response [request_id=req_1746792097831_2c91c3b1] - Status: success, Time: 1161.66ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:31:39 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:31:39.055355", "request_id": "req_1746792097831_2c91c3b1", "organization_id": "00003", "session_id": "Marcus", "user_id": "demo-user", "query": "How to make some coffee?", "response": "To make coffee, Marcus, you'll need: \n- Coffee beans or grounds\n- Water\n- A coffee maker or French press\n- Optional: sugar, creamer, etc.\n\nFollow the manufacturer's instructions for your chosen method. Would you like more specific guidance, Marcus?", "response_source": "llm", "processing_time_ms": 1223.4127521514893, "confidence": {"main": 0.15874719619750977, "sub": 0.0}}
+2025-05-09 17:31:39 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:31:39.055355", "request_id": "req_1746792097831_2c91c3b1", "organization_id": "00003", "session_id": "Marcus", "user_id": "demo-user", "query": "How to make some coffee?", "response": "To make coffee, Marcus, you'll need: \n- Coffee beans or grounds\n- Water\n- A coffee maker or French press\n- Optional: sugar, creamer, etc.\n\nFollow the manufacturer's instructions for your chosen method. Would you like more specific guidance, Marcus?", "response_source": "llm", "processing_time_ms": 1223.4127521514893, "confidence": {"main": 0.15874719619750977, "sub": 0.0}}
+2025-05-09 17:32:31 - INFO - Chat request [request_id=req_1746792151484_04c9f9cc] - Org: 00003, Session: Marcus, User: demo-user
+2025-05-09 17:32:31 - INFO - Received query [request_id=req_1746792151484_04c9f9cc]: 'How to make tea then?'
+2025-05-09 17:32:31 - INFO - Received query [request_id=req_1746792151484_04c9f9cc]: 'How to make tea then?'
+2025-05-09 17:32:31 - INFO - Classification [request_id=req_1746792151484_04c9f9cc] - Status: llm_fallback, Time: 78.03ms
+2025-05-09 17:32:32 - INFO - LLM response [request_id=req_1746792151484_04c9f9cc] - Status: success, Time: 1310.93ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:32:32 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:32:32.874775", "request_id": "req_1746792151484_04c9f9cc", "organization_id": "00003", "session_id": "Marcus", "user_id": "demo-user", "query": "How to make tea then?", "response": "To make tea, Marcus, follow these steps:\n- Boil water\n- Choose your tea bag (loose-leaf or tea bag)\n- Steep according to package instructions (1-3 minutes)\n- Add sweetener/honey to taste\n- Optional: milk, lemon, or other flavorings\n\nWhich type of tea would you like to brew, Marcus?", "response_source": "llm", "processing_time_ms": 1389.6889686584473, "confidence": {"main": 0.18608732521533966, "sub": 0.0}}
+2025-05-09 17:32:32 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:32:32.874775", "request_id": "req_1746792151484_04c9f9cc", "organization_id": "00003", "session_id": "Marcus", "user_id": "demo-user", "query": "How to make tea then?", "response": "To make tea, Marcus, follow these steps:\n- Boil water\n- Choose your tea bag (loose-leaf or tea bag)\n- Steep according to package instructions (1-3 minutes)\n- Add sweetener/honey to taste\n- Optional: milk, lemon, or other flavorings\n\nWhich type of tea would you like to brew, Marcus?", "response_source": "llm", "processing_time_ms": 1389.6889686584473, "confidence": {"main": 0.18608732521533966, "sub": 0.0}}
+2025-05-09 17:34:13 - INFO - Chat request [request_id=req_1746792253668_9363c4df] - Org: 00003, Session: Marcus, User: demo-user
+2025-05-09 17:34:13 - INFO - Received query [request_id=req_1746792253668_9363c4df]: 'How does a GPU work?'
+2025-05-09 17:34:13 - INFO - Received query [request_id=req_1746792253668_9363c4df]: 'How does a GPU work?'
+2025-05-09 17:34:13 - INFO - Classification [request_id=req_1746792253668_9363c4df] - Status: llm_fallback, Time: 61.79ms
+2025-05-09 17:34:14 - INFO - LLM response [request_id=req_1746792253668_9363c4df] - Status: success, Time: 1006.81ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:34:14 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:34:14.738273", "request_id": "req_1746792253668_9363c4df", "organization_id": "00003", "session_id": "Marcus", "user_id": "demo-user", "query": "How does a GPU work?", "response": "A Graphics Processing Unit (GPU), Marcus, is a specialized computer chip responsible for handling graphics and computations. It performs parallel processing, using many cores to execute multiple instructions simultaneously. This allows for fast rendering, gaming, and computing tasks.", "response_source": "llm", "processing_time_ms": 1069.371223449707, "confidence": {"main": 0.30237966775894165, "sub": 0.0}}
+2025-05-09 17:34:14 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:34:14.738273", "request_id": "req_1746792253668_9363c4df", "organization_id": "00003", "session_id": "Marcus", "user_id": "demo-user", "query": "How does a GPU work?", "response": "A Graphics Processing Unit (GPU), Marcus, is a specialized computer chip responsible for handling graphics and computations. It performs parallel processing, using many cores to execute multiple instructions simultaneously. This allows for fast rendering, gaming, and computing tasks.", "response_source": "llm", "processing_time_ms": 1069.371223449707, "confidence": {"main": 0.30237966775894165, "sub": 0.0}}
+2025-05-09 17:58:53 - INFO - Chat request [request_id=req_1746793733287_0c20af45] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:58:53 - INFO - Received query [request_id=req_1746793733287_0c20af45]: 'Hi'
+2025-05-09 17:58:53 - INFO - Received query [request_id=req_1746793733287_0c20af45]: 'Hi'
+2025-05-09 17:58:53 - INFO - Classification [request_id=req_1746793733287_0c20af45] - Status: llm_fallback, Time: 59.36ms
+2025-05-09 17:58:53 - INFO - Cleaned up 1 expired sessions
+2025-05-09 17:58:54 - INFO - LLM response [request_id=req_1746793733287_0c20af45] - Status: success, Time: 716.71ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:58:54 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:58:54.064510", "request_id": "req_1746793733287_0c20af45", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "Hi", "response": "Hi Sunil. How can I assist you today?", "response_source": "llm", "processing_time_ms": 776.7431735992432, "confidence": {"main": 0.36035624146461487, "sub": 0.0}}
+2025-05-09 17:58:54 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:58:54.064510", "request_id": "req_1746793733287_0c20af45", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "Hi", "response": "Hi Sunil. How can I assist you today?", "response_source": "llm", "processing_time_ms": 776.7431735992432, "confidence": {"main": 0.36035624146461487, "sub": 0.0}}
+2025-05-09 17:59:07 - INFO - Chat request [request_id=req_1746793747735_9a9b6615] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:59:07 - INFO - Received query [request_id=req_1746793747735_9a9b6615]: 'How to check my admission status?'
+2025-05-09 17:59:07 - INFO - Received query [request_id=req_1746793747735_9a9b6615]: 'How to check my admission status?'
+2025-05-09 17:59:07 - INFO - Classification [request_id=req_1746793747735_9a9b6615] - Status: success, Time: 117.48ms
+2025-05-09 17:59:07 - INFO - Corpus response [request_id=req_1746793747735_9a9b6615] - Status: success, Time: 0.00ms, Intent: admission_process/admission_status
+2025-05-09 17:59:07 - INFO - Added corpus response to session [request_id=req_1746793747735_9a9b6615, session_id=Sunil]
+2025-05-09 17:59:07 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:59:07.854919", "request_id": "req_1746793747735_9a9b6615", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "How to check my admission status?", "response": "Hello! The admission process at [Institution Name] involves several steps, including application submission, document verification, fee payment, and confirmation. How can I assist you with the admission process?\n\nYou can check your admission status by visiting [Admission Portal Link] and entering your application number. Would you like me to guide you through the process?", "response_source": "corpus", "processing_time_ms": 118.1797981262207, "main_intent": "admission_process", "sub_intent": "admission_status", "confidence": {"main": 0.8534561991691589, "sub": 0.7140184044837952}}
+2025-05-09 17:59:07 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:59:07.854919", "request_id": "req_1746793747735_9a9b6615", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "How to check my admission status?", "response": "Hello! The admission process at [Institution Name] involves several steps, including application submission, document verification, fee payment, and confirmation. How can I assist you with the admission process?\n\nYou can check your admission status by visiting [Admission Portal Link] and entering your application number. Would you like me to guide you through the process?", "response_source": "corpus", "processing_time_ms": 118.1797981262207, "main_intent": "admission_process", "sub_intent": "admission_status", "confidence": {"main": 0.8534561991691589, "sub": 0.7140184044837952}}
+2025-05-09 17:59:19 - INFO - Chat request [request_id=req_1746793759524_d40eaf78] - Org: 00003, Session: Sunil, User: demo-user
+2025-05-09 17:59:19 - INFO - Received query [request_id=req_1746793759524_d40eaf78]: 'What was my previous query?'
+2025-05-09 17:59:19 - INFO - Received query [request_id=req_1746793759524_d40eaf78]: 'What was my previous query?'
+2025-05-09 17:59:19 - INFO - Classification [request_id=req_1746793759524_d40eaf78] - Status: llm_fallback, Time: 63.77ms
+2025-05-09 17:59:20 - INFO - LLM response [request_id=req_1746793759524_d40eaf78] - Status: success, Time: 696.63ms, Model: meta/llama-3.2-3b-instruct
+2025-05-09 17:59:20 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:59:20.286060", "request_id": "req_1746793759524_d40eaf78", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "What was my previous query?", "response": "Sunil, your previous query was about the admission process/admission_status in the ERP system.", "response_source": "llm", "processing_time_ms": 761.1398696899414, "confidence": {"main": 0.574053943157196, "sub": 0.0}}
+2025-05-09 17:59:20 - INFO - CHAT_TRANSACTION: {"timestamp": "2025-05-09T17:59:20.286060", "request_id": "req_1746793759524_d40eaf78", "organization_id": "00003", "session_id": "Sunil", "user_id": "demo-user", "query": "What was my previous query?", "response": "Sunil, your previous query was about the admission process/admission_status in the ERP system.", "response_source": "llm", "processing_time_ms": 761.1398696899414, "confidence": {"main": 0.574053943157196, "sub": 0.0}}
+2025-05-09 18:05:30 - INFO - Shutting down application
+2025-05-09 18:05:30 - INFO - Chat system shutting down
+2025-05-09 18:05:30 - INFO - Chat system shutting down
+2025-05-09 18:05:30 - INFO - Cleaned up temporary directory: /tmp/chatbot_9ezx_hnn
