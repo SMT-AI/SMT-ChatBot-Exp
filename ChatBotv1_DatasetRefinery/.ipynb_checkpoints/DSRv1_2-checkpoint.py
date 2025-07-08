@@ -27,8 +27,8 @@ class DatasetRefinery:
     """Automates dataset refinement using Ollama local LLM"""
     
     def __init__(self, 
-                 ollama_host: str = "http://localhost:11434",
-                 model_name: str = "mistral-nemo:latest",
+                 ollama_host: str = "http://192.168.0.157:11434",
+                 model_name: str = "llama3.3:70b",
                  temperature: float = 0.3,
                  max_retries: int = 3,
                  retry_delay: float = 2.0):
@@ -75,7 +75,7 @@ Output only the curated {target_samples} samples in Python list format:
                 
                 if self.model_name not in model_names:
                     logger.warning(f"Model '{self.model_name}' not found. Available models: {model_names}")
-                    logger.info("You may need to pull the model using: ollama pull mistral-nemo:latest")
+                    logger.info("You may need to pull the model using: ollama pull llama3.3:70b")
                 else:
                     logger.info(f"Successfully connected to Ollama. Model '{self.model_name}' is available.")
             else:
@@ -542,7 +542,7 @@ def main():
         epilog="""
 Examples:
   python dataset_refinery.py -i dataset.txt -o refined_dataset.txt -s 20
-  python dataset_refinery.py -i data/intent_samples.txt -o output/refined.txt -s 15 --model mistral-nemo:latest
+  python dataset_refinery.py -i data/intent_samples.txt -o output/refined.txt -s 15 --model llama3.3:70b
   python dataset_refinery.py -i dataset.txt -o refined.txt -s 10 --host http://192.168.1.100:11434
         """
     )
@@ -553,10 +553,10 @@ Examples:
                        help='Path for output refined dataset .txt file')
     parser.add_argument('-s', '--samples', type=int, required=True,
                        help='Target number of samples per sub-intent')
-    parser.add_argument('--host', default='http://localhost:11434',
-                       help='Ollama server host (default: http://localhost:11434)')
-    parser.add_argument('--model', default='mistral-nemo:latest',
-                       help='Model name to use (default: mistral-nemo:latest)')
+    parser.add_argument('--host', default='http://192.168.0.157:11434',
+                       help='Ollama server host (default: http://192.168.0.157:11434)')
+    parser.add_argument('--model', default='llama3.3:70b',
+                       help='Model name to use (default: llama3.3:70b)')
     parser.add_argument('--temperature', type=float, default=0.3,
                        help='Generation temperature (default: 0.3)')
     parser.add_argument('--max-retries', type=int, default=3,

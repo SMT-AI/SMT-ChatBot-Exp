@@ -6646,3 +6646,111 @@ Input: How to release the exam results
 2025-07-08 11:36:19,386 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
 2025-07-08 11:36:19,387 - __main__ - INFO - New best model saved with eval loss: 5.9209
 2025-07-08 11:36:19,387 - __main__ - INFO - Epoch 1/50, Train Loss: 6.2900, Eval Loss: 5.9209
+2025-07-08 11:39:06,196 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 11:39:06,197 - __main__ - INFO - New best model saved with eval loss: 4.0220
+2025-07-08 11:39:06,197 - __main__ - INFO - Epoch 2/50, Train Loss: 5.2513, Eval Loss: 4.0220
+2025-07-08 11:41:53,257 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 11:41:53,257 - __main__ - INFO - New best model saved with eval loss: 2.5413
+2025-07-08 11:41:53,258 - __main__ - INFO - Epoch 3/50, Train Loss: 3.3720, Eval Loss: 2.5413
+2025-07-08 11:43:21,413 - __main__ - INFO - Using device: cuda
+2025-07-08 11:43:24,542 - __main__ - INFO - Starting training on cuda
+2025-07-08 11:43:24,543 - __main__ - INFO - Dataset size: 11570 examples
+2025-07-08 11:43:24,545 - __main__ - INFO - Data preparation took 0.00 seconds
+2025-07-08 11:43:24,549 - __main__ - INFO - Creating train and eval datasets
+2025-07-08 11:43:24,549 - __main__ - INFO - Pre-computing encodings for all texts (this will speed up training)
+2025-07-08 11:43:24,550 - __main__ - INFO - Processing 41 batches of encodings
+2025-07-08 11:43:25,941 - __main__ - INFO - Completed encoding 10413 texts
+2025-07-08 11:43:25,941 - __main__ - INFO - Pre-computing encodings for all texts (this will speed up training)
+2025-07-08 11:43:25,942 - __main__ - INFO - Processing 5 batches of encodings
+2025-07-08 11:43:26,093 - __main__ - INFO - Completed encoding 1157 texts
+2025-07-08 11:43:27,762 - __main__ - INFO - Starting training for 10 epochs
+2025-07-08 11:46:14,459 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 11:46:14,460 - __main__ - INFO - New best model saved with eval loss: 5.8726
+2025-07-08 11:46:14,460 - __main__ - INFO - Epoch 1/10, Train Loss: 6.3177, Eval Loss: 5.8726
+2025-07-08 11:49:01,814 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 11:49:01,814 - __main__ - INFO - New best model saved with eval loss: 4.0775
+2025-07-08 11:49:01,815 - __main__ - INFO - Epoch 2/10, Train Loss: 5.2687, Eval Loss: 4.0775
+2025-07-08 11:51:49,167 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 11:51:49,168 - __main__ - INFO - New best model saved with eval loss: 2.5912
+2025-07-08 11:51:49,168 - __main__ - INFO - Epoch 3/10, Train Loss: 3.3920, Eval Loss: 2.5912
+2025-07-08 11:54:36,564 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 11:54:36,564 - __main__ - INFO - New best model saved with eval loss: 1.6631
+2025-07-08 11:54:36,565 - __main__ - INFO - Epoch 4/10, Train Loss: 2.1986, Eval Loss: 1.6631
+2025-07-08 11:57:23,922 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 11:57:23,923 - __main__ - INFO - New best model saved with eval loss: 1.1554
+2025-07-08 11:57:23,923 - __main__ - INFO - Epoch 5/10, Train Loss: 1.4375, Eval Loss: 1.1554
+2025-07-08 12:00:11,340 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 12:00:11,340 - __main__ - INFO - New best model saved with eval loss: 0.8895
+2025-07-08 12:00:11,341 - __main__ - INFO - Epoch 6/10, Train Loss: 0.9997, Eval Loss: 0.8895
+2025-07-08 12:02:58,718 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 12:02:58,718 - __main__ - INFO - New best model saved with eval loss: 0.7298
+2025-07-08 12:02:58,719 - __main__ - INFO - Epoch 7/10, Train Loss: 0.7301, Eval Loss: 0.7298
+2025-07-08 12:05:46,027 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 12:05:46,028 - __main__ - INFO - New best model saved with eval loss: 0.6547
+2025-07-08 12:05:46,028 - __main__ - INFO - Epoch 8/10, Train Loss: 0.5726, Eval Loss: 0.6547
+2025-07-08 12:08:33,492 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 12:08:33,492 - __main__ - INFO - New best model saved with eval loss: 0.6075
+2025-07-08 12:08:33,493 - __main__ - INFO - Epoch 9/10, Train Loss: 0.4807, Eval Loss: 0.6075
+2025-07-08 12:11:21,001 - __main__ - INFO - Model saved to models/erp_bot_best_updx.pt
+2025-07-08 12:11:21,001 - __main__ - INFO - New best model saved with eval loss: 0.5897
+2025-07-08 12:11:21,002 - __main__ - INFO - Epoch 10/10, Train Loss: 0.4319, Eval Loss: 0.5897
+2025-07-08 12:11:22,739 - __main__ - INFO - Model saved to models/erp_bot_final_20250708_121121.pt
+2025-07-08 12:11:22,740 - __main__ - INFO - Training completed
+2025-07-08 12:12:16,722 - __main__ - INFO - Model saved to models/optimized_model.pt
+2025-07-08 12:12:19,057 - __main__ - INFO - 
+Input: How to release the exam results
+2025-07-08 12:12:19,057 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'examination', 'sub_intent': 'examination_master', 'confidence': {'main': 0.984309196472168, 'sub': 0.5399371385574341}}
+2025-07-08 12:12:24,106 - __main__ - INFO - 
+Input: Hi
+2025-07-08 12:12:24,106 - __main__ - INFO - Result: {'status': 'llm_fallback', 'confidence': {'main': 0.6014611124992371, 'sub': 0.0}, 'original_query': 'Hi'}
+2025-07-08 12:12:31,940 - __main__ - INFO - 
+Input: Hey
+2025-07-08 12:12:31,941 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'My_page', 'sub_intent': 'Messenger', 'confidence': {'main': 0.9449037313461304, 'sub': 0.6823946833610535}}
+2025-07-08 12:12:39,391 - __main__ - INFO - 
+Input: Oi
+2025-07-08 12:12:39,392 - __main__ - INFO - Result: {'status': 'llm_fallback', 'confidence': {'main': 0.591537356376648, 'sub': 0.0}, 'original_query': 'Oi'}
+2025-07-08 12:13:24,988 - __main__ - INFO - 
+Input: How to apply for admission?
+2025-07-08 12:13:24,989 - __main__ - INFO - Result: {'status': 'llm_fallback', 'confidence': {'main': 0.4432339668273926, 'sub': 0.0}, 'original_query': 'How to apply for admission?'}
+2025-07-08 12:13:41,974 - __main__ - INFO - 
+Input: How to check exam results?
+2025-07-08 12:13:41,974 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'examination', 'sub_intent': 'examination_master', 'confidence': {'main': 0.9753100872039795, 'sub': 0.5180660486221313}}
+2025-07-08 12:13:57,687 - __main__ - INFO - 
+Input: How to check results
+2025-07-08 12:13:57,687 - __main__ - INFO - Result: {'status': 'llm_fallback', 'confidence': {'main': 0.49044710397720337, 'sub': 0.0}, 'original_query': 'How to check results'}
+2025-07-08 12:14:11,463 - __main__ - INFO - 
+Input: How to check my exam results
+2025-07-08 12:14:11,464 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'examination', 'sub_intent': 'examination_master', 'confidence': {'main': 0.877708911895752, 'sub': 0.7420637607574463}}
+2025-07-08 12:14:15,753 - __main__ - INFO - 
+Input: How to check my exam results?
+2025-07-08 12:14:15,754 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'examination', 'sub_intent': 'examination_master', 'confidence': {'main': 0.9020659327507019, 'sub': 0.792608916759491}}
+2025-07-08 12:19:15,210 - __main__ - INFO - 
+Input: How to check for college photos
+2025-07-08 12:19:15,210 - __main__ - INFO - Result: {'status': 'llm_fallback', 'confidence': {'main': 0.4863490164279938, 'sub': 0.0}, 'original_query': 'How to check for college photos'}
+2025-07-08 12:19:26,731 - __main__ - INFO - 
+Input: How to check for photos
+2025-07-08 12:19:26,732 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'content', 'sub_intent': 'photo_gallery', 'confidence': {'main': 0.9403027296066284, 'sub': 0.9488643407821655}}
+2025-07-08 12:19:54,129 - __main__ - INFO - 
+Input: How to add new user
+2025-07-08 12:19:54,129 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'settings', 'sub_intent': 'user_master', 'confidence': {'main': 0.9699857234954834, 'sub': 0.8750634789466858}}
+2025-07-08 12:20:19,743 - __main__ - INFO - 
+Input: How to check the employee list
+2025-07-08 12:20:19,744 - __main__ - INFO - Result: {'status': 'llm_fallback', 'confidence': {'main': 0.645075261592865, 'sub': 0.0}, 'original_query': 'How to check the employee list'}
+2025-07-08 12:20:29,299 - __main__ - INFO - 
+Input: How to check the employee
+2025-07-08 12:20:29,300 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'front_desk', 'sub_intent': 'staff_directory', 'confidence': {'main': 0.7845750451087952, 'sub': 0.8886563777923584}}
+2025-07-08 12:26:45,960 - __main__ - INFO - 
+Input: How to check the employee
+2025-07-08 12:26:45,961 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'front_desk', 'sub_intent': 'staff_directory', 'confidence': {'main': 0.7845750451087952, 'sub': 0.8886563777923584}}
+2025-07-08 12:27:14,595 - __main__ - INFO - 
+Input: How to check the salary
+2025-07-08 12:27:14,596 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'payroll', 'sub_intent': 'comparative_salary', 'confidence': {'main': 0.9864084720611572, 'sub': 0.24060559272766113}}
+2025-07-08 12:27:25,844 - __main__ - INFO - 
+Input: How to check the model
+2025-07-08 12:27:25,844 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'settings', 'sub_intent': 'system_setting', 'confidence': {'main': 0.7933399081230164, 'sub': 0.4593617618083954}}
+2025-07-08 12:27:35,241 - __main__ - INFO - 
+Input: How to check the attendance
+2025-07-08 12:27:35,242 - __main__ - INFO - Result: {'status': 'success', 'main_intent': 'employee_module', 'sub_intent': 'mark_attendance', 'confidence': {'main': 0.8473053574562073, 'sub': 0.8995705842971802}}
+2025-07-08 12:27:45,066 - __main__ - INFO - 
+Input: How to check the student attendance
+2025-07-08 12:27:45,066 - __main__ - INFO - Result: {'status': 'llm_fallback', 'confidence': {'main': 0.5690412521362305, 'sub': 0.0}, 'original_query': 'How to check the student attendance'}
